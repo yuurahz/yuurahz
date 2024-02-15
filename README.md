@@ -7,13 +7,13 @@
 
 :page_with_curl: I'm currently learning :
 - Python • Javascript
-- Nodejs • Java
+- Nodejs • Html
 
 <p align="center">
   <img alig src="./foto.jpg" />
 </p>
 
-### 📫 Feel free to contact me anytime
+### 🍟 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40Shnsz4you-blue">](https://t.me/Shnsz4you)
 [<img src="https://img.shields.io/badge/Email-sptroadi01@gmail.com-orange">](mailto:sptroadi01@gmail.com)
 <a href="https://www.instagram.com/adisptr05_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
