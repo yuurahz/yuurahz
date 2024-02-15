@@ -1,20 +1,13 @@
-<p align="center">
-<a href="https://youtube.com/channel/UC2Y767o1R7Y2aOd8rC_FUAA"><img align="center" src="https://www.youtube.com/@Adiyete69name=Adixshnzz &description=Hello,%20I%20am%20YanzBotz%20I%20am%20beginner%20in%20programming,%20please%20your%20guidance&image=https://camo.githubusercontent.com/9903bf3c97f58a7c72dd1bc5a3fe3a6358b7725bcfa40ec2a6880d554cd3513a/68747470733a2f2f74656c656772612e70682f66696c652f3734653739343936626233333839643064636238352e6a7067&backgroundColor=%23ecf0f1&instagram=@adisptr05_&github=Adixshnzz&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://www.youtube.com/@Adiyete69"/></a>
-</p>
-
- 
 ## Hello, I`m [Adixshnzz](https://instagram.com/adisptr05_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 [<img src="https://img.shields.io/badge/Website-Adixshnzz-blue">](https://bit.ly/m/mywebsite)
 [<img src="https://img.shields.io/badge/Email-sptroadi01@gmail.com-purple">](mailto:sptroadi01@gmail.com)
-<a href="https://www.instagram.com/yanzbotz_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/adisptr05_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/62882007855266?text=Hallo+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 
 :page_with_curl: I'm currently learning :
 - Python • Javascript
 - Nodejs • Java
-- Nextjs
-
 
 <p align="center">
   <img alig src="./foto.jpg" />
