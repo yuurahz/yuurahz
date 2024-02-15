@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://youtube.com/channel/UC2Y767o1R7Y2aOd8rC_FUAA"><img align="center" src="https://github-cardname.caliph.my.id/api?name=YanzBotz&description=Hello,%20I%20am%20YanzBotz%20I%20am%20beginner%20in%20programming,%20please%20your%20guidance&image=https://camo.githubusercontent.com/9903bf3c97f58a7c72dd1bc5a3fe3a6358b7725bcfa40ec2a6880d554cd3513a/68747470733a2f2f74656c656772612e70682f66696c652f3734653739343936626233333839643064636238352e6a7067&backgroundColor=%23ecf0f1&instagram=@riyan_ff12&github=YanzBotz&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/YanzBotz"/></a>
+<a href="https://youtube.com/channel/UC2Y767o1R7Y2aOd8rC_FUAA"><img align="center" src="https://github-cardname.caliph.my.id/api?name=YanzBotz&description=Hello,%20I%20am%20YanzBotz%20I%20am%20beginner%20in%20programming,%20please%20your%20guidance&image=https://camo.githubusercontent.com/9903bf3c97f58a7c72dd1bc5a3fe3a6358b7725bcfa40ec2a6880d554cd3513a/68747470733a2f2f74656c656772612e70682f66696c652f3734653739343936626233333839643064636238352e6a7067&backgroundColor=%23ecf0f1&instagram=@riyan_ff12&github=YanzBotz&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/adiinhere"/></a>
 </p>
 
  
