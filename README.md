@@ -1,9 +1,4 @@
 ## Hello Everyone, I`m [Adixshnzz](https://instagram.com/adisptr05_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-[<img src="https://img.shields.io/badge/Website-Adixshnzz-blue">](https://bit.ly/m/mywebsite)
-[<img src="https://img.shields.io/badge/Email-sptroadi01@gmail.com-purple">](mailto:sptroadi01@gmail.com)
-<a href="https://www.instagram.com/adisptr05_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://wa.me/62882007855266?text=Hallo+Bang" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
-
 
 :page_with_curl: I'm currently learning :
 - Python • Javascript
