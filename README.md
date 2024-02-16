@@ -5,7 +5,7 @@
 - Nodejs • Html • Css
 
 <p align="center">
-  <img alig src="./foto.jpg" />
+  <img alig src="./gambar.jpg" />
 </p>
 
 ### 🍟 Feel free to contact me anytime
