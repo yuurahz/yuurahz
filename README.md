@@ -1,4 +1,4 @@
-## Hello Everyone, I`m [Adixshnzz](https://instagram.com/adisptr05_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello Everyone, I`m [Adi](https://instagram.com/adisptr05_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 :page_with_curl: I'm currently learning :
 - Python • Javascript
@@ -20,9 +20,4 @@
 
 <p align="left">
 <a href="https://github.com/Adixshnzz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adixshnzz"></a>
-</p>
-
-<h3 align="left">Listening Music</h3>
-<p align="center">
-  <a href="https://open.spotify.com/track/4y7XDqU1g5qhz4sJhfW4ts?si=G2gRpYsuRr64LxuflkGR5A&utm_source=native-share-menu&utm_source=native-share-menu&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
