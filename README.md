@@ -1,4 +1,4 @@
-## Hello Everyone, I`m [Adi](https://instagram.com/adisptr05_) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello Everyone, I`m [Adi](https://instagram.com/yuura_hz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 :page_with_curl: I'm currently learning :
 - Python • Javascript
