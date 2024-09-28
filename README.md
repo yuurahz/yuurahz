@@ -1,8 +1,7 @@
 ## Hello Everyone, I`m [Adi](https://instagram.com/yuura_hz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 :page_with_curl: I'm currently learning :
-- Python • Javascript
-- Nodejs • Html • Css
+- Javascript • Html • Css
 
 ### 🍟 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40yuurahz-blue">](https://t.me/yuurahz)
