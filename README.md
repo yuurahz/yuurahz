@@ -10,9 +10,9 @@
 <a href="https://wa.me/6282375933838" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 <p align="left">
-  <a href="https://github.com/Adixshnzz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adixshnzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
+  <a href="https://github.com/YuuraHz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=YuuraHz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&hide_title=false&show_icons=true&layout=compact&langs_count=10" /></a>
 </p>
 
 <p align="left">
-<a href="https://github.com/Adixshnzz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adixshnzz"></a>
+<a href="https://github.com/YuuraHz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuuraHz"></a>
 </p>
