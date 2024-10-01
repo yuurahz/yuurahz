@@ -1,9 +1,8 @@
-## Hello Everyone, I`m [Adi](https://instagram.com/yuura_hz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hello Everyone, I`m [Adi](https://instagram.com/yuura_hz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-:page_with_curl: I'm currently learning :
-- Javascript • Html • Css
+:page_with_curl: I'm currently learning about programming
 
-### 🍟 Feel free to contact me anytime
+## 🍟 Feel free to contact me anytime
 [<img src="https://img.shields.io/badge/Telegram-%40yuurahz-blue">](https://t.me/yuurahz)
 [<img src="https://img.shields.io/badge/Email-yuurahzz@gmail.com-orange">](mailto:yuurahzz@gmail.com)
 <a href="https://www.instagram.com/yuura_hz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -19,5 +18,5 @@
 
 ## 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=YuuraHz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YuuraHztheme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuuraHztheme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compaact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YuuraHz&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuuraHz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compaact)
