@@ -8,7 +8,6 @@
 </p>
 
 [<img src="https://img.shields.io/badge/Telegram-%40yuurahz-blue">](https://t.me/yuurahz)
-[<img src="https://img.shields.io/badge/Email-yuurahzz@gmail.com-orange">](mailto:yuurahzz@gmail.com)
 <a href="https://www.instagram.com/yuura_hz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://wa.me/6282375933838" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
