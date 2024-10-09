@@ -1,4 +1,4 @@
-## Hello Everyone, I`m [Adi](https://github.com/YuuraHz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=YuuraHz&data=followers,repositories,stars,commits" width="600">
 
 <p align="center">
   <a href="https://github.com/YuuraHz?tab=repositories&sort=stargazers">
