@@ -7,6 +7,6 @@
 <a href="https://wa.me/6282375933838" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ## 📊 GitHub Stats:  
-![](https://github-readme-stats.vercel.app/api?username=YuuraHz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YuuraHz&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YuuraHz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,python,html,css,json,shell)](https://github.com/YuuraHz)
+
+<img style="height: 200px" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=YuuraHz"></a>
