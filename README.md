@@ -1,4 +1,4 @@
-<img src="https://github-widgetbox.vercel.app/api/profile?username=YuuraHz&data=followers,repositories,stars,commits" width="600">
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YuuraHz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/YuuraHz)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,python,html,css,json,shell,react)](https://github.com/YuuraHz)
 
