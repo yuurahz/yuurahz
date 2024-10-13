@@ -1,5 +1,5 @@
-**About Me**
-```md
+                    ***About Me***
+```Javascript
 • 🌱 I started my life choosing to dive into the world of programming
 • 🤖 Want to know how a bot system works 
 • 🧑‍💻 Starting to learn about creating a website
