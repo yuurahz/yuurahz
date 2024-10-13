@@ -10,7 +10,7 @@ About Me
 • ☕ Coffee and sebat lover
 ```
 
-![Adi's card name](https://cardivo.vercel.app/api?name=YuuraHz&description=Hi%20There,%20My%20Real%20Name%20Is%20Adi%20Saputra.%20I'am%20a%20Newbie&image=https://github.com/yuurahz.png&backgroundColor=%23ecf0f1&instagram=adisptr05_&github=yuurahz&pattern=fallingTriangles&colorPattern=%23eaeaea)
+![Adi's card name](https://cardivo.vercel.app/api?name=YuuraHz&description=Hi%20There,%20My%20Real%20Name%20Is%20Adi%20Saputra.%20I'am%20a%20Newbie&image=https://github.com/yuurahz.png&backgroundColor=%23ecf0f1&instagram=adisptr05_&github=yuurahz&pattern=fallingTriangles&colorPattern=%231abc9c)
 
 <p align=center>
 Listening Music
