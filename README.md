@@ -19,3 +19,12 @@ Listening Music
 <p align=center>
 <a href="https://open.spotify.com/user/31rfiiy7cv7rf6gkw5ewysendfcq?si=EnZaw-pgTVWaRYNhv_CtMA&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify" width="350"/></a>
 </p>
+
+ <p align="center">
+    <a href="https://github.com/sanzydev">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurahz&theme=redical" alt="Stats">
+    </a>
+</p>
+
+
+<p align="center"><a href="https://github.com/yuurahz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&theme=radical&layout=compact"></a></p> 
