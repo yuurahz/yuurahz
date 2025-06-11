@@ -1,0 +1,88 @@
+name: Update Random Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Update setiap hari jam 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Fetch Random Quote
+        id: get-quote
+        run: |
+          echo "Fetching random quote from dummyjson.com..."
+          
+          quote_response=$(curl -s https://dummyjson.com/quotes/random)
+          
+          quote_text=$(echo "$quote_response" | jq -r '.quote' | sed 's/"/\\"/g')
+          quote_author=$(echo "$quote_response" | jq -r '.author' | sed 's/"/\\"/g')
+          
+          echo "Quote: $quote_text"
+          echo "Author: $quote_author"
+          
+          echo "quote=$quote_text" >> $GITHUB_OUTPUT
+          echo "author=$quote_author" >> $GITHUB_OUTPUT
+          
+      - name: Update README
+        run: |
+          echo "Updating README.md with new quote..."
+          
+          quote_section="<!-- QUOTE:START -->
+          <div align=\"center\">
+          
+          ## 📝 Quote of the Day
+          
+          > *\"${{ steps.get-quote.outputs.quote }}\"*
+          > 
+          > **— ${{ steps.get-quote.outputs.author }}**
+          
+          <sub>Updated on $(date +'%B %d, %Y')</sub>
+          
+          </div>
+          <!-- QUOTE:END -->"
+          
+          if grep -q "<!-- QUOTE:START -->" README.md && grep -q "<!-- QUOTE:END -->" README.md; then
+            echo "Markers found, updating existing quote section..."
+            
+            perl -i -pe 'BEGIN{undef $/;} s/<!-- QUOTE:START -->.*?<!-- QUOTE:END -->/'"$(echo "$quote_section" | sed 's/[[\.*^$()+?{|]/\\&/g')"'/smg' README.md
+          else
+            echo "Markers not found, adding quote section at the end..."
+            echo "" >> README.md
+            echo "$quote_section" >> README.md
+          fi
+          
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "clickgp99@gmail.com"
+          git config --local user.name "Adi"
+          
+          # Add changes
+          git add README.md
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            echo "Committing changes..."
+            git commit -m "🔄 Update daily quote - $(date +'%Y-%m-%d')"
+            git push
+            echo "Quote updated successfully!"
+          fi
+          
+      - name: Summary
+        run: |
+          echo "## Quote Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "✅ Successfully updated daily quote" >> $GITHUB_STEP_SUMMARY
+          echo "📝 Quote: ${{ steps.get-quote.outputs.quote }}" >> $GITHUB_STEP_SUMMARY
+          echo "👤 Author: ${{ steps.get-quote.outputs.author }}" >> $GITHUB_STEP_SUMMARY
+          echo "📅 Updated: $(date +'%B %d, %Y at %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
