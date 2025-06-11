@@ -7,6 +7,10 @@ on:
   push:
     branches: [ main ] # Update saat ada push ke main branch (opsional)
 
+permissions:
+  contents: write  # Diperlukan untuk push changes
+  actions: read    # Diperlukan untuk workflow
+
 jobs:
   update-quote:
     runs-on: ubuntu-latest
