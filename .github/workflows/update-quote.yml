@@ -102,8 +102,8 @@ jobs:
       - name: Commit and Push Changes
         run: |
           # Configure git
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action Bot"
+          git config --local user.email "clickgp99@gmail.com"
+          git config --local user.name "Adi"
           
           # Add changes
           git add README.md
