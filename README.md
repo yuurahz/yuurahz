@@ -1,4 +1,15 @@
 <!-- QUOTE:START -->
+<div align="center">
+
+## 📝 Quote of the Day
+
+> *"One Of The Greatest Diseases Is To Be Nobody To Anybody."*
+> 
+> **— Mother Teresa**
+
+<sub>Updated on June 11, 2025</sub>
+
+</div>
 <!-- QUOTE:END -->
 
 <p align=center>
