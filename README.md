@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"One Of The Greatest Diseases Is To Be Nobody To Anybody."*
+> *"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It."*
 > 
-> **— Mother Teresa**
+> **— Henry Ford**
 
 <sub>Updated on June 11, 2025</sub>
 
