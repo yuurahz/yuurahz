@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It."*
+> *"Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will."*
 > 
-> **— Henry Ford**
+> **— Zig Ziglar**
 
 <sub>Updated on June 11, 2025</sub>
 
