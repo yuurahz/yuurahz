@@ -12,9 +12,9 @@
 </div>
 <!-- QUOTE:END -->
 
-<p align=center>
-About Me
-</p>
+<div align=center>
+## About Me
+</div>
 
 ![Adi's card name](https://cardivo.vercel.app/api?name=YuuraHz&description=Hi%20There,%20My%20Name%20Is%20Adi.%20I'am%20a%20Newbie&image=https://github.com/yuurahz.png&backgroundColor=%23ecf0f1&pattern=leaf&colorPattern=%23eaeaea)
 
