@@ -3,9 +3,9 @@ name: Update Random Quote
 on:
   schedule:
     - cron: '0 0 * * *' # Update setiap hari jam 00:00 UTC
-  workflow_dispatch:
+  workflow_dispatch: # Bisa dijalankan manual dari GitHub Actions tab
   push:
-    branches: [ main ]
+    branches: [ main ] # Update saat ada push ke main branch (opsional)
 
 jobs:
   update-quote:
@@ -22,14 +22,17 @@ jobs:
         run: |
           echo "Fetching random quote from dummyjson.com..."
           
+          # Fetch quote data dari API
           quote_response=$(curl -s https://dummyjson.com/quotes/random)
           
+          # Parse JSON menggunakan jq
           quote_text=$(echo "$quote_response" | jq -r '.quote' | sed 's/"/\\"/g')
           quote_author=$(echo "$quote_response" | jq -r '.author' | sed 's/"/\\"/g')
           
           echo "Quote: $quote_text"
           echo "Author: $quote_author"
           
+          # Set output untuk step selanjutnya
           echo "quote=$quote_text" >> $GITHUB_OUTPUT
           echo "author=$quote_author" >> $GITHUB_OUTPUT
           
@@ -37,32 +40,64 @@ jobs:
         run: |
           echo "Updating README.md with new quote..."
           
-          quote_section="<!-- QUOTE:START -->
-          <div align=\"center\">
+          # Ambil quote dan author dari step sebelumnya
+          QUOTE="${{ steps.get-quote.outputs.quote }}"
+          AUTHOR="${{ steps.get-quote.outputs.author }}"
+          
+          # Escape karakter khusus untuk sed
+          QUOTE_ESCAPED=$(echo "$QUOTE" | sed 's/[[\.*^$()+?{|]/\\&/g' | sed 's/"/\\"/g')
+          AUTHOR_ESCAPED=$(echo "$AUTHOR" | sed 's/[[\.*^$()+?{|]/\\&/g' | sed 's/"/\\"/g')
+          
+          # Buat temporary file untuk quote section baru
+          cat > quote_temp.txt << EOF
+          <!-- QUOTE:START -->
+          <div align="center">
           
           ## 📝 Quote of the Day
           
-          > *\"${{ steps.get-quote.outputs.quote }}\"*
+          > *"${QUOTE}"*
           > 
-          > **— ${{ steps.get-quote.outputs.author }}**
+          > **— ${AUTHOR}**
           
           <sub>Updated on $(date +'%B %d, %Y')</sub>
           
           </div>
-          <!-- QUOTE:END -->"
+          <!-- QUOTE:END -->
+          EOF
           
+          # Cek apakah markers sudah ada di README
           if grep -q "<!-- QUOTE:START -->" README.md && grep -q "<!-- QUOTE:END -->" README.md; then
             echo "Markers found, updating existing quote section..."
             
-            perl -i -pe 'BEGIN{undef $/;} s/<!-- QUOTE:START -->.*?<!-- QUOTE:END -->/'"$(echo "$quote_section" | sed 's/[[\.*^$()+?{|]/\\&/g')"'/smg' README.md
+            # Gunakan awk untuk replace section yang ada
+            awk '
+            /<!-- QUOTE:START -->/ { 
+              print
+              while ((getline line < "quote_temp.txt") > 0) {
+                if (line != "<!-- QUOTE:START -->") print line
+              }
+              close("quote_temp.txt")
+              skip = 1
+              next
+            }
+            /<!-- QUOTE:END -->/ { 
+              skip = 0
+              next
+            }
+            !skip { print }
+            ' README.md > README_temp.md && mv README_temp.md README.md
           else
             echo "Markers not found, adding quote section at the end..."
             echo "" >> README.md
-            echo "$quote_section" >> README.md
+            cat quote_temp.txt >> README.md
           fi
+          
+          # Clean up temporary file
+          rm -f quote_temp.txt
           
       - name: Commit and Push Changes
         run: |
+          # Configure git
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           
