@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will."*
+> *"If Allah wants for a people ill, he gives them debates and takes away from them actions."*
 > 
-> **— Zig Ziglar**
+> **— Umar ibn Al-Khattāb (R.A)**
 
 <sub>Updated on June 11, 2025</sub>
 
