@@ -1,3 +1,6 @@
+<!-- QUOTE:START -->
+<!-- QUOTE:END -->
+
 <p align=center>
 About Me
 </p>
