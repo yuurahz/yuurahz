@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If Allah wants for a people ill, he gives them debates and takes away from them actions."*
+> *"Nothing Good Ever Comes Of Violence."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Martin Luther**
 
-<sub>Updated on June 11, 2025</sub>
+<sub>Updated on June 12, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
