@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Nothing Good Ever Comes Of Violence."*
+> *"I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love."*
 > 
-> **— Martin Luther**
+> **— Mother Teresa**
 
-<sub>Updated on June 12, 2025</sub>
+<sub>Updated on June 13, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
