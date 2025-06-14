@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love."*
+> *"To Be A Christian Without Prayer Is No More Possible Than To Be Alive Without Breathing."*
 > 
-> **— Mother Teresa**
+> **— Martin Luther King, Jr.**
 
-<sub>Updated on June 13, 2025</sub>
+<sub>Updated on June 14, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
