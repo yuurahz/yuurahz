@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To Be A Christian Without Prayer Is No More Possible Than To Be Alive Without Breathing."*
+> *"Renouncing the worldly pleasures is a comfort for both the human heart and body."*
 > 
-> **— Martin Luther King, Jr.**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on June 14, 2025</sub>
+<sub>Updated on June 15, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
