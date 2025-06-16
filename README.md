@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Renouncing the worldly pleasures is a comfort for both the human heart and body."*
+> *"Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Thomas A. Edison**
 
-<sub>Updated on June 15, 2025</sub>
+<sub>Updated on June 16, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
