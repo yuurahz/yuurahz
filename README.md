@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success."*
+> *"Do not feel lonely on the road of righteousness Because of the fewness of the walkers on it."*
 > 
-> **— Thomas A. Edison**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on June 16, 2025</sub>
+<sub>Updated on June 17, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
