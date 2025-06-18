@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not feel lonely on the road of righteousness Because of the fewness of the walkers on it."*
+> *"Inside of a ring or out, ain't nothing wrong with going down. It's staying down that's wrong."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on June 17, 2025</sub>
+<sub>Updated on June 18, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
