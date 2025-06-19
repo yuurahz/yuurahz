@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Inside of a ring or out, ain't nothing wrong with going down. It's staying down that's wrong."*
+> *"I Don'T Believe In Failure. It Is Not Failure If You Enjoyed The Process."*
 > 
-> **— Muhammad Ali**
+> **— Oprah Winfrey**
 
-<sub>Updated on June 18, 2025</sub>
+<sub>Updated on June 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
