@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Don'T Believe In Failure. It Is Not Failure If You Enjoyed The Process."*
+> *"Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires."*
 > 
-> **— Oprah Winfrey**
+> **— Bertrand Russell**
 
-<sub>Updated on June 19, 2025</sub>
+<sub>Updated on June 20, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
