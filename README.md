@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires."*
+> *"You Are Never Too Old To Set Another Goal Or To Dream A New Dream."*
 > 
-> **— Bertrand Russell**
+> **— C. S. Lewis**
 
-<sub>Updated on June 20, 2025</sub>
+<sub>Updated on June 21, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
