@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away."*
+> *"If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."*
 > 
-> **— Ellen DeGeneres**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on June 23, 2025</sub>
+<sub>Updated on June 22, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
