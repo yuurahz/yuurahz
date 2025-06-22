@@ -7,7 +7,7 @@
 > 
 > **— Ellen DeGeneres**
 
-<sub>Updated on June 22, 2025</sub>
+<sub>Updated on June 23, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
@@ -30,6 +30,6 @@
    <a href="https://github.com/yuurahz/">
      <img src="https://github-readme-stats.vercel.app/api?username=yuurahz&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="yuurahz"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuurahz&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="yuurahz"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=synthwave" width="500"  alt="yuurahz"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=synthwave" width="300"  alt="yuurahz"/>
    </a>
 </div>
