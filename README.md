@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Stay in college, get the knowledge. And stay there until you're through. If they can make penicillin out of moldy bread, they can sure make something out of you. Advice to a young person to continue his education."*
+> *"It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt."*
 > 
-> **— Muhammad Ali**
+> **— Abraham Lincoln**
 
 <sub>Updated on June 22, 2025</sub>
 
