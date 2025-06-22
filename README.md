@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Are Never Too Old To Set Another Goal Or To Dream A New Dream."*
+> *"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."*
 > 
-> **— C. S. Lewis**
+> **— Rumi**
 
-<sub>Updated on June 21, 2025</sub>
+<sub>Updated on June 22, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
