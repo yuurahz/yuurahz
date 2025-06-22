@@ -33,5 +33,13 @@
     </a>
 </p>
 
+<div align="center">
+   <a href="https://github.com/yuurahz/">
+     <img src="https://github-readme-stats.vercel.app/api?username=yuurahz&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="yuurahz"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuurahz&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="yuurahz"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=synthwave" width="450"  alt="yuurahz"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=yuurahz&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=synthwave&no-frame=true&no-bg=true" width="450" alt="yuurahz"/>
+   </a>
+</div>
 
 <p align="center"><a href="https://github.com/yuurahz"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&theme=radical&layout=compact"></a></p> 
