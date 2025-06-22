@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."*
+> *"Stay in college, get the knowledge. And stay there until you're through. If they can make penicillin out of moldy bread, they can sure make something out of you. Advice to a young person to continue his education."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
 <sub>Updated on June 22, 2025</sub>
 
