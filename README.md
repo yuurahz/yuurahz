@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt."*
+> *"Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away."*
 > 
-> **— Abraham Lincoln**
+> **— Ellen DeGeneres**
 
 <sub>Updated on June 22, 2025</sub>
 
