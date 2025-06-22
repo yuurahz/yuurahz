@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."*
+> *"Hating people because of their color is wrong. And it doesn't matter which color does the hating. It's just plain wrong."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Ali**
 
 <sub>Updated on June 22, 2025</sub>
 
