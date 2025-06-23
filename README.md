@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Hating people because of their color is wrong. And it doesn't matter which color does the hating. It's just plain wrong."*
+> *"I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It."*
 > 
-> **— Muhammad Ali**
+> **— Mark Twain**
 
-<sub>Updated on June 22, 2025</sub>
+<sub>Updated on June 23, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
