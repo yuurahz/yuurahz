@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It."*
+> *"Turn Your Wounds Into Wisdom."*
 > 
-> **— Mark Twain**
+> **— Oprah Winfrey**
 
-<sub>Updated on June 23, 2025</sub>
+<sub>Updated on June 24, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
