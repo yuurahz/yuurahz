@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Turn Your Wounds Into Wisdom."*
+> *"A man who views the world the same at fifty as he did at twenty has wasted thirty years of his life."*
 > 
-> **— Oprah Winfrey**
+> **— Muhammad Ali**
 
-<sub>Updated on June 24, 2025</sub>
+<sub>Updated on June 25, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
