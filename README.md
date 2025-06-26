@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A man who views the world the same at fifty as he did at twenty has wasted thirty years of his life."*
+> *"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."*
 > 
-> **— Muhammad Ali**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on June 25, 2025</sub>
+<sub>Updated on June 26, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
