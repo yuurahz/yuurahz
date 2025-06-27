@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."*
+> *"Fiction Is The Truth Inside The Lie."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Stephen King**
 
-<sub>Updated on June 26, 2025</sub>
+<sub>Updated on June 27, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
