@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Fiction Is The Truth Inside The Lie."*
+> *"Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose."*
 > 
-> **— Stephen King**
+> **— Bill Gates**
 
-<sub>Updated on June 27, 2025</sub>
+<sub>Updated on June 28, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
