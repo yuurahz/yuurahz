@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose."*
+> *"I Myself Prefer My New Zealand Eggs For Breakfast."*
 > 
-> **— Bill Gates**
+> **— Elizabeth II**
 
-<sub>Updated on June 28, 2025</sub>
+<sub>Updated on June 29, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
