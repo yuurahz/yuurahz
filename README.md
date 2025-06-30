@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Myself Prefer My New Zealand Eggs For Breakfast."*
+> *"You Don'T Have To See The Whole Staircase, Just Take The First Step."*
 > 
-> **— Elizabeth II**
+> **— Martin Luther King  Jr.**
 
-<sub>Updated on June 29, 2025</sub>
+<sub>Updated on June 30, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
