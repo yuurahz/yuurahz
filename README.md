@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Don'T Have To See The Whole Staircase, Just Take The First Step."*
+> *"He who does not live in the way of his beliefs starts to believe in the way he lives."*
 > 
-> **— Martin Luther King  Jr.**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on June 30, 2025</sub>
+<sub>Updated on July 01, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
