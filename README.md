@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He who does not live in the way of his beliefs starts to believe in the way he lives."*
+> *"Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Mark Twain**
 
-<sub>Updated on July 01, 2025</sub>
+<sub>Updated on July 02, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
