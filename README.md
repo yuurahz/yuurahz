@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow."*
+> *"I Do Not Think Much Of A Man Who Is Not Wiser Today Than He Was Yesterday."*
 > 
-> **— Mark Twain**
+> **— Abraham Lincoln**
 
-<sub>Updated on July 02, 2025</sub>
+<sub>Updated on July 03, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
