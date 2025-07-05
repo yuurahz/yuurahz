@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Educated Southerner Has No Use For An 'R', Except At The Beginning Of A Word."*
+> *"Happiness In Intelligent People Is The Rarest Thing I Know."*
 > 
-> **— Mark Twain**
+> **— Ernest Hemingway**
 
-<sub>Updated on July 04, 2025</sub>
+<sub>Updated on July 05, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
