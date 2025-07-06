@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Happiness In Intelligent People Is The Rarest Thing I Know."*
+> *"The angel is free because of his knowledge, the beast because of his ignorance. Between the two remains the son of man to struggle."*
 > 
-> **— Ernest Hemingway**
+> **— Rumi**
 
-<sub>Updated on July 05, 2025</sub>
+<sub>Updated on July 06, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
