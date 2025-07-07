@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The angel is free because of his knowledge, the beast because of his ignorance. Between the two remains the son of man to struggle."*
+> *"Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'"*
 > 
-> **— Rumi**
+> **— Martin Luther King  Jr.**
 
-<sub>Updated on July 06, 2025</sub>
+<sub>Updated on July 07, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
