@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?'"*
+> *"Sometimes the people with the worst past, create the best future."*
 > 
-> **— Martin Luther King  Jr.**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on July 07, 2025</sub>
+<sub>Updated on July 08, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
