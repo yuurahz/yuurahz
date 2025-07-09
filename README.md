@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Sometimes the people with the worst past, create the best future."*
+> *"All your anxiety is because of your desire for harmony. Seek disharmony, then you will gain peace."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Rumi**
 
-<sub>Updated on July 08, 2025</sub>
+<sub>Updated on July 09, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
