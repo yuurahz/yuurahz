@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"All your anxiety is because of your desire for harmony. Seek disharmony, then you will gain peace."*
+> *"Take account of your deeds before they are taken account of."*
 > 
-> **— Rumi**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on July 09, 2025</sub>
+<sub>Updated on July 10, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
