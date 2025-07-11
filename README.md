@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Take account of your deeds before they are taken account of."*
+> *"Whoever listens to slander is himself a slanderer."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on July 10, 2025</sub>
+<sub>Updated on July 11, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
