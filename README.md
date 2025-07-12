@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Whoever listens to slander is himself a slanderer."*
+> *"Convictions Are More Dangerous Foes Of Truth Than Lies."*
 > 
-> **— Muhammad Ali**
+> **— Friedrich Nietzsche**
 
-<sub>Updated on July 11, 2025</sub>
+<sub>Updated on July 12, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
