@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He That Rises Late Must Trot All Day."*
+> *"I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."*
 > 
-> **— Benjamin Franklin**
+> **— Bill Cosby**
 
-<sub>Updated on July 13, 2025</sub>
+<sub>Updated on July 14, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
