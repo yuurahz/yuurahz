@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody."*
+> *"The Secret Of Getting Ahead Is Getting Started"*
 > 
-> **— Bill Cosby**
+> **— Mark Twain**
 
-<sub>Updated on July 14, 2025</sub>
+<sub>Updated on July 15, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
