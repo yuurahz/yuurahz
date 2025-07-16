@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Secret Of Getting Ahead Is Getting Started"*
+> *"Silence is an ocean. Speech is a river. When the ocean is searching for you, don't walk into the river. Listen to the ocean."*
 > 
-> **— Mark Twain**
+> **— Rumi**
 
-<sub>Updated on July 15, 2025</sub>
+<sub>Updated on July 16, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
