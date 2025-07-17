@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Silence is an ocean. Speech is a river. When the ocean is searching for you, don't walk into the river. Listen to the ocean."*
+> *"Education Is What Remains After One Has Forgotten What One Has Learned In School."*
 > 
-> **— Rumi**
+> **— Albert Einstein**
 
-<sub>Updated on July 16, 2025</sub>
+<sub>Updated on July 17, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
