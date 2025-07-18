@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Education Is What Remains After One Has Forgotten What One Has Learned In School."*
+> *"Wherever You Go, Go With All Your Heart."*
 > 
-> **— Albert Einstein**
+> **— Confucius**
 
-<sub>Updated on July 17, 2025</sub>
+<sub>Updated on July 18, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
