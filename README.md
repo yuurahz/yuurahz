@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Wherever You Go, Go With All Your Heart."*
+> *"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."*
 > 
-> **— Confucius**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on July 18, 2025</sub>
+<sub>Updated on July 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
