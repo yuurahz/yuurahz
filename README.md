@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Preserve the sayings of those people who are indifferent to the world. They say only that what Allah wishes them to say."*
+> *"I Feel Much Freer Now That I Am Certain The Pope Is The Antichrist."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Martin Luther**
 
-<sub>Updated on July 19, 2025</sub>
+<sub>Updated on July 20, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
