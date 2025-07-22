@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Cannot Perform In A Manner Inconsistent With The Way You See Yourself."*
+> *"What hurts you, blesses you. Darkness is your candle."*
 > 
-> **— Zig Ziglar**
+> **— Rumi**
 
-<sub>Updated on July 21, 2025</sub>
+<sub>Updated on July 22, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
