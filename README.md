@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"What hurts you, blesses you. Darkness is your candle."*
+> *"Two Great European Narcotics, Alcohol And Christianity."*
 > 
-> **— Rumi**
+> **— Friedrich Nietzsche**
 
-<sub>Updated on July 22, 2025</sub>
+<sub>Updated on July 23, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
