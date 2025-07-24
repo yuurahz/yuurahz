@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Two Great European Narcotics, Alcohol And Christianity."*
+> *"To fight against the infidels is Jihad; but to fight against your evil self is greater Jihad."*
 > 
-> **— Friedrich Nietzsche**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on July 23, 2025</sub>
+<sub>Updated on July 24, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
