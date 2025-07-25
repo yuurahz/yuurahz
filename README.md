@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To fight against the infidels is Jihad; but to fight against your evil self is greater Jihad."*
+> *"Being The Richest Man In The Cemetery Doesn'T Matter To Me. Going To Bed At Night Saying We'Ve Done Something Wonderful, That'S What Matters To Me."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Steve Jobs**
 
-<sub>Updated on July 24, 2025</sub>
+<sub>Updated on July 25, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
