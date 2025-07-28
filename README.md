@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Why Is It That We Rejoice At A Birth And Grieve At A Funeral? It Is Because We Are Not The Person Involved."*
+> *"You Don'T Have To Be Great To Start, But You Have To Start To Be Great"*
 > 
-> **— Mark Twain**
+> **— Zig Ziglar**
 
-<sub>Updated on July 27, 2025</sub>
+<sub>Updated on July 28, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
