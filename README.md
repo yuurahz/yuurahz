@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Don'T Have To Be Great To Start, But You Have To Start To Be Great"*
+> *"No One Has Ever Become Poor By Giving."*
 > 
-> **— Zig Ziglar**
+> **— Anne Frank**
 
-<sub>Updated on July 28, 2025</sub>
+<sub>Updated on July 29, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
