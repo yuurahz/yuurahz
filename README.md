@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I was saying “I'm the greatest” long before I believed it."*
+> *"There Has Never Yet Been A Man In Our History Who Led A Life Of Ease Whose Name Is Worth Remembering."*
 > 
-> **— Muhammad Ali**
+> **— Theodore Roosevelt**
 
-<sub>Updated on July 31, 2025</sub>
+<sub>Updated on August 01, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
