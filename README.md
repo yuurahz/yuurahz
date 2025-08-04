@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Law Is Reason, Free From Passion."*
+> *"Do not be like those on whom advice has no effect and who require punishment to correct themselves."*
 > 
-> **— Aristotle**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on August 03, 2025</sub>
+<sub>Updated on August 04, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
