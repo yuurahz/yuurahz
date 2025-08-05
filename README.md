@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not be like those on whom advice has no effect and who require punishment to correct themselves."*
+> *"Nature Hath Framed Strange Fellows In Her Time."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— William Shakespeare**
 
-<sub>Updated on August 04, 2025</sub>
+<sub>Updated on August 05, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
