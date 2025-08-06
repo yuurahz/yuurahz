@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Nature Hath Framed Strange Fellows In Her Time."*
+> *"There is greatness in the fear of God, contentment in faith of God, and honour in humility."*
 > 
-> **— William Shakespeare**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on August 05, 2025</sub>
+<sub>Updated on August 06, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
