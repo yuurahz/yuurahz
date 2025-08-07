@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"There is greatness in the fear of God, contentment in faith of God, and honour in humility."*
+> *"I hated every minute of training, but I said, “Don't quit. Suffer now and live the rest of your life as a champion.”"*
 > 
-> **— Abu Bakr (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on August 06, 2025</sub>
+<sub>Updated on August 07, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
