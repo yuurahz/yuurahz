@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I hated every minute of training, but I said, “Don't quit. Suffer now and live the rest of your life as a champion.”"*
+> *"Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree."*
 > 
-> **— Muhammad Ali**
+> **— Martin Luther**
 
-<sub>Updated on August 07, 2025</sub>
+<sub>Updated on August 08, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
