@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Woman Was God'S Second Mistake."*
+> *"If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up."*
 > 
-> **— Friedrich Nietzsche**
+> **— Hunter S. Thompson**
 
-<sub>Updated on August 12, 2025</sub>
+<sub>Updated on August 13, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
