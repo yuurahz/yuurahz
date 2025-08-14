@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up."*
+> *"The Secret To Humor Is Surprise."*
 > 
-> **— Hunter S. Thompson**
+> **— Aristotle**
 
-<sub>Updated on August 13, 2025</sub>
+<sub>Updated on August 14, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
