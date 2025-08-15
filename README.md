@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Secret To Humor Is Surprise."*
+> *"One best book is equal to hundred good friends but one good friend is equal to a library."*
 > 
-> **— Aristotle**
+> **— Abdul Kalam**
 
-<sub>Updated on August 14, 2025</sub>
+<sub>Updated on August 15, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
