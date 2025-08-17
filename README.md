@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Everything That Is Really Great And Inspiring Is Created By The Individual Who Can Labor In Freedom."*
+> *"He Who Has Never Learned To Obey Cannot Be A Good Commander."*
 > 
-> **— Albert Einstein**
+> **— Aristotle**
 
-<sub>Updated on August 16, 2025</sub>
+<sub>Updated on August 17, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
