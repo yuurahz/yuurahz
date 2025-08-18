@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He Who Has Never Learned To Obey Cannot Be A Good Commander."*
+> *"Champions have to have the skill and the will. But the will must be stronger than the skill."*
 > 
-> **— Aristotle**
+> **— Muhammad Ali**
 
-<sub>Updated on August 17, 2025</sub>
+<sub>Updated on August 18, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
