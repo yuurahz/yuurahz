@@ -9,9 +9,9 @@
 
 ## 📝 Quote of the Day
 
-> *"When you do things from your soul, you feel a river moving in you, a joy."*
+> *"We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage."*
 > 
-> **— Rumi**
+> **— Abdul Kalam**
 
 <sub>Updated on August 19, 2025</sub>
 
