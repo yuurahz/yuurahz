@@ -18,9 +18,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Only the soul knows what love is."*
+> *"Don'T Tell Fish Stories Where The People Know You; But Particularly, Don'T Tell Them Where They Know The Fish."*
 > 
-> **— Rumi**
+> **— Mark Twain**
 
 <sub>Updated on August 19, 2025</sub>
 
