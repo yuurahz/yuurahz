@@ -12,9 +12,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Don'T Tell Fish Stories Where The People Know You; But Particularly, Don'T Tell Them Where They Know The Fish."*
+> *"I looked for God. I went to a temple and I didn't find him there. Then I went to a church and I didn't find him there. The I went to a mosque and I didn't find him there. Then finally I looked in my heart and there he was."*
 > 
-> **— Mark Twain**
+> **— Rumi**
 
 <sub>Updated on August 19, 2025</sub>
 
