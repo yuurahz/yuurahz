@@ -3,11 +3,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Champions have to have the skill and the will. But the will must be stronger than the skill."*
+> *"If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."*
 > 
-> **— Muhammad Ali**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on August 18, 2025</sub>
+<sub>Updated on August 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
