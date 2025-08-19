@@ -11,7 +11,7 @@
 
 ## 📝 Quote of the Day
 
-> *"I looked for God. I went to a temple and I didn't find him there. Then I went to a church and I didn't find him there. The I went to a mosque and I didn't find him there. Then finally I looked in my heart and there he was."*
+> *"Lovely days don't come to you, you should walk to them."*
 > 
 > **— Rumi**
 
