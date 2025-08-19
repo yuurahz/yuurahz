@@ -22,9 +22,9 @@
 
 ## 📝 Quote of the Day
 
-> *"He who becomes a Muslim does so in his own interest."*
+> *"Those Who Dare To Fail Miserably Can Achieve Greatly."*
 > 
-> **— Abu Bakr (R.A)**
+> **— John F. Kennedy**
 
 <sub>Updated on August 19, 2025</sub>
 
