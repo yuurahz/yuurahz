@@ -7,9 +7,11 @@
 <!-- QUOTE:START -->
 <div align="center">
 
-📖 **Quote of the Day**  
-*"Champions aren't made in gyms. Champions are made from something they have deep inside them - a desire, a dream, a vision."*  
-— *Muhammad Ali*  
+## 📝 Quote of the Day
+
+> *"When you do things from your soul, you feel a river moving in you, a joy."*
+> 
+> **— Rumi**
 
 <sub>Updated on August 19, 2025</sub>
 
