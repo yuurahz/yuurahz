@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."*
+> *"There is a field beyond all notions of right and wrong. Come, meet me there."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Rumi**
 
 <sub>Updated on August 19, 2025</sub>
 
