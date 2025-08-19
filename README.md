@@ -22,9 +22,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Those Who Dare To Fail Miserably Can Achieve Greatly."*
+> *"Only the soul knows what love is."*
 > 
-> **— John F. Kennedy**
+> **— Rumi**
 
 <sub>Updated on August 19, 2025</sub>
 
