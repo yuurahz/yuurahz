@@ -4,16 +4,12 @@
 
 ---
 
-<div align="center">
-
 ## About Me
 
 - 🌱 Currently exploring **Web Development & APIs**  
 - 💡 Interested in **Backend Development, Open Source, and Automation**  
 - 🏆 Goal: Keep improving and building awesome projects  
 - 🎯 Motto: *"Code, Learn, Improve, Repeat."*
-
-</div>
 
 ---
 
