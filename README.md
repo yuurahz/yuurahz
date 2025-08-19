@@ -18,6 +18,8 @@
 
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1146284620363608084)](https://discord.com/users/1146284620363608084)
+
 ![Adi's card name](https://cardivo.vercel.app/api?name=YuuraHz&description=Hi%20There,%20My%20Name%20Is%20Adi.%20I'am%20a%20Newbie&image=https://github.com/yuurahz.png&backgroundColor=%23ecf0f1&pattern=leaf&colorPattern=%23eaeaea)
 
  <p align="center">
