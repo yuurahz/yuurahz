@@ -5,11 +5,14 @@
 ---
 
 <div align="center">
+
 ## About Me
+
 - 🌱 Currently exploring **Web Development & APIs**  
 - 💡 Interested in **Backend Development, Open Source, and Automation**  
 - 🏆 Goal: Keep improving and building awesome projects  
 - 🎯 Motto: *"Code, Learn, Improve, Repeat."*
+
 </div>
 
 ---
@@ -31,16 +34,21 @@
 ---
 
 <div align="center">
+
 ## Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,bash,git,github,vscode,mongodb&perline=8" />
 </p>
+
 </div>
 
 ---
 
 <div align="center">
+
 ## GitHub Stats
+
 </div>
 
 <div align="center">
@@ -55,7 +63,9 @@
 ---
 
 <div align="center">
+
 ## Top Languages
+
 </div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
