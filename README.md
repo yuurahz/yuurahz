@@ -3,9 +3,9 @@
 
 ## 📝 Quote of the Day
 
-> *"There is a field beyond all notions of right and wrong. Come, meet me there."*
+> *"Champions aren't made in gyms. Champions are made from something they have deep inside them - a desire, a dream, a vision. They have to have the skill, and the will. But the will must be stronger than the skill."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
 <sub>Updated on August 19, 2025</sub>
 
