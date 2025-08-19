@@ -17,11 +17,11 @@
 <!-- QUOTE:START -->
 <div align="center">
 
-## Quote of the Day
+## 📝 Quote of the Day
 
-> *"We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage."*
+> *"He who becomes a Muslim does so in his own interest."*
 > 
-> **— Abdul Kalam**
+> **— Abu Bakr (R.A)**
 
 <sub>Updated on August 19, 2025</sub>
 
