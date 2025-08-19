@@ -12,9 +12,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Lovely days don't come to you, you should walk to them."*
+> *"Don't read success stories, you will only get a message. Read failure stories, you will get some ideas to get success."*
 > 
-> **— Rumi**
+> **— Abdul Kalam**
 
 <sub>Updated on August 19, 2025</sub>
 
