@@ -1,35 +1,53 @@
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Adi (YuuraHz)</h1>
+<h3 align="center">💻 Passionate Learner | 🚀 Aspiring Developer | 🌱 Open Source Enthusiast</h3>
+
+---
+
 <!-- QUOTE:START -->
 <div align="center">
 
-## 📝 Quote of the Day
-
-> *"Champions aren't made in gyms. Champions are made from something they have deep inside them - a desire, a dream, a vision. They have to have the skill, and the will. But the will must be stronger than the skill."*
-> 
-> **— Muhammad Ali**
+📖 **Quote of the Day**  
+*"Champions aren't made in gyms. Champions are made from something they have deep inside them - a desire, a dream, a vision."*  
+— *Muhammad Ali*  
 
 <sub>Updated on August 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
 
-<div align=center>
-  
-## About Me
+---
 
-</div>
+## 🚀 About Me
+- 🌱 Currently exploring **Web Development & APIs**  
+- 💡 Interested in **Backend Development, Open Source, and Automation**  
+- 🏆 Goal: Keep improving and building awesome projects  
+- 🎯 Motto: *"Code, Learn, Improve, Repeat."*
 
-![Adi's card name](https://cardivo.vercel.app/api?name=YuuraHz&description=Hi%20There,%20My%20Name%20Is%20Adi.%20I'am%20a%20Newbie&image=https://github.com/yuurahz.png&backgroundColor=%23ecf0f1&pattern=leaf&colorPattern=%23eaeaea)
+---
 
- <p align="center">
-    <a href="https://github.com/yuurahz">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurahz&theme=redical" alt="Stats">
-    </a>
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,shell,git,github,vscode,mongodb&perline=8" />
 </p>
 
+---
+
+## GitHub Stats
 <div align="center">
-   <a href="https://github.com/yuurahz/">
-     <img src="https://github-readme-stats.vercel.app/api?username=yuurahz&&include_all_commits=true&count_private=true&show_icons=true&theme=synthwave&hide_border=true" width="450" alt="yuurahz"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuurahz&theme=synthwave&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="yuurahz"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=synthwave" width="450" alt="yuurahz"/>
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuurahz&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuurahz&theme=tokyonight&hide_border=true" height="180px"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurahz&theme=tokyo-night" alt="Activity Graph"/>
+</div>
+
+---
+
+## Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+---
