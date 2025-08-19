@@ -5,7 +5,6 @@
 - 🏆 Goal: Keep improving and building awesome projects  
 - 🎯 Motto: *"Code, Learn, Improve, Repeat."*
 
----
 
 <!-- QUOTE:START -->
 <div align="center">
@@ -21,7 +20,6 @@
 </div>
 <!-- QUOTE:END -->
 
----
 
 <div align="center">
 
@@ -33,7 +31,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -50,7 +47,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurahz&theme=tokyo-night" alt="Activity Graph"/>
 </div>
 
----
 
 <div align="center">
 
@@ -60,5 +56,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
-
----
