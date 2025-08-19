@@ -5,6 +5,7 @@
 - 🏆 Goal: Keep improving and building awesome projects  
 - 🎯 Motto: *"Code, Learn, Improve, Repeat."*
 
+----
 
 <!-- QUOTE:START -->
 <div align="center">
