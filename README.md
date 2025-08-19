@@ -1,9 +1,3 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Adi (YuuraHz)</h1>
-<h3 align="center">💻 Passionate Learner | 🚀 Aspiring Developer | 🌱 Open Source Enthusiast</h3>
-
----
-
 ## About Me
 
 - 🌱 Currently exploring **Web Development & APIs**  
