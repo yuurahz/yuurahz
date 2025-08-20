@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Don't read success stories, you will only get a message. Read failure stories, you will get some ideas to get success."*
+> *"Kindness Is The Language Which The Deaf Can Hear And The Blind Can See."*
 > 
-> **— Abdul Kalam**
+> **— Mark Twain**
 
-<sub>Updated on August 19, 2025</sub>
+<sub>Updated on August 20, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
