@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Kindness Is The Language Which The Deaf Can Hear And The Blind Can See."*
+> *"Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend."*
 > 
-> **— Mark Twain**
+> **— Rumi**
 
-<sub>Updated on August 20, 2025</sub>
+<sub>Updated on August 21, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
