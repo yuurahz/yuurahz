@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend."*
+> *"Do not use the sharpness of your speech on your mother who taught you how to speak."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on August 21, 2025</sub>
+<sub>Updated on August 22, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
