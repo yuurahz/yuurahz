@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."*
+> *"Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them."*
 > 
 > **— Abdul Kalam**
 
-<sub>Updated on August 23, 2025</sub>
+<sub>Updated on August 24, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
