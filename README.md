@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them."*
+> *"Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all..."*
 > 
-> **— Abdul Kalam**
+> **— Muhammad Ali**
 
-<sub>Updated on August 24, 2025</sub>
+<sub>Updated on August 25, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
