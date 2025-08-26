@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all..."*
+> *"Great dreams of great dreamers are always transcended."*
 > 
-> **— Muhammad Ali**
+> **— Abdul Kalam**
 
-<sub>Updated on August 25, 2025</sub>
+<sub>Updated on August 26, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
