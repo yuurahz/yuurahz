@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Great dreams of great dreamers are always transcended."*
+> *"Silence is the best reply to a fool."*
 > 
-> **— Abdul Kalam**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on August 26, 2025</sub>
+<sub>Updated on August 27, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
