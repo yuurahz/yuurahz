@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Silence is the best reply to a fool."*
+> *"The best brains of the nation may be found on the last benches of the classroom."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on August 27, 2025</sub>
+<sub>Updated on August 28, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
