@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The best brains of the nation may be found on the last benches of the classroom."*
+> *"Allah's the Arabic term for God. Stand up for God, fight for God, work for God and do the right thing, and go the right way, things will end up in your corner."*
 > 
-> **— Abdul Kalam**
+> **— Muhammad Ali**
 
-<sub>Updated on August 28, 2025</sub>
+<sub>Updated on August 29, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
