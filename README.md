@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do You Think God Gets Stoned? I Think So... Look At The Platypus."*
+> *"It Ain'T What You Don'T Know That Gets You Into Trouble. It'S What You Know For Sure That Just Ain'T So."*
 > 
-> **— Robin Williams**
+> **— Mark Twain**
 
-<sub>Updated on August 30, 2025</sub>
+<sub>Updated on August 31, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
