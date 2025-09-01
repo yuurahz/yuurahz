@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It Ain'T What You Don'T Know That Gets You Into Trouble. It'S What You Know For Sure That Just Ain'T So."*
+> *"If A Free Society Cannot Help The Many Who Are Poor, It Cannot Save The Few Who Are Rich."*
 > 
-> **— Mark Twain**
+> **— John F. Kennedy**
 
-<sub>Updated on August 31, 2025</sub>
+<sub>Updated on September 01, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
