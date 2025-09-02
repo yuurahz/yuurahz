@@ -26,14 +26,18 @@
 
 ## Tech Stack
 
+<details>
+  <summary>Click to expand</summary>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,bash,git,github,vscode,mongodb,redis,supabase,figma,docker,prisma&perline=8" />
 </p>
 
 </div>
 
-
 <div align="center">
+
+</details>
 
 ## GitHub Stats
 
