@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If A Free Society Cannot Help The Many Who Are Poor, It Cannot Save The Few Who Are Rich."*
+> *"To fight against one's desires is the greatest of all fights."*
 > 
-> **— John F. Kennedy**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 01, 2025</sub>
+<sub>Updated on September 02, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
