@@ -12,9 +12,9 @@
 
 ## 📝 Quote of the Day
 
-> *"To fight against one's desires is the greatest of all fights."*
+> *"There Are No Facts, Only Interpretations."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Friedrich Nietzsche**
 
 <sub>Updated on September 02, 2025</sub>
 
