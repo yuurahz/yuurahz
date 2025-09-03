@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"There Are No Facts, Only Interpretations."*
+> *"Use the same measure for selling that you use for purchasing."*
 > 
-> **— Friedrich Nietzsche**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on September 02, 2025</sub>
+<sub>Updated on September 03, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
