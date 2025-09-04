@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Use the same measure for selling that you use for purchasing."*
+> *"Be soulful. Be kind. Be in love."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Rumi**
 
-<sub>Updated on September 03, 2025</sub>
+<sub>Updated on September 04, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
