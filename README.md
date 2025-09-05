@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Be soulful. Be kind. Be in love."*
+> *"He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep."*
 > 
-> **— Rumi**
+> **— Abu Bakr**
 
-<sub>Updated on September 04, 2025</sub>
+<sub>Updated on September 05, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
