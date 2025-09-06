@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep."*
+> *"Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."*
 > 
-> **— Abu Bakr**
+> **— Friedrich Nietzsche**
 
-<sub>Updated on September 05, 2025</sub>
+<sub>Updated on September 06, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
