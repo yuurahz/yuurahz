@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."*
+> *"Frazier's got two chances. Slim, and none. And Slim just left town."*
 > 
-> **— Friedrich Nietzsche**
+> **— Muhammad Ali**
 
-<sub>Updated on September 06, 2025</sub>
+<sub>Updated on September 07, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
