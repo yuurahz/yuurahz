@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Frazier's got two chances. Slim, and none. And Slim just left town."*
+> *"And you? When will you begin that long journey into yourself?"*
 > 
-> **— Muhammad Ali**
+> **— Rumi**
 
-<sub>Updated on September 07, 2025</sub>
+<sub>Updated on September 08, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
