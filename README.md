@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"And you? When will you begin that long journey into yourself?"*
+> *"Music Expresses That Which Cannot Be Put Into Words."*
 > 
-> **— Rumi**
+> **— Victor Hugo**
 
-<sub>Updated on September 08, 2025</sub>
+<sub>Updated on September 09, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
