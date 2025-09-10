@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Music Expresses That Which Cannot Be Put Into Words."*
+> *"Nations consist of people. And with their effort, a nation can accomplish all it could ever want."*
 > 
-> **— Victor Hugo**
+> **— Abdul Kalam**
 
-<sub>Updated on September 09, 2025</sub>
+<sub>Updated on September 10, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
