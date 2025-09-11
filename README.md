@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Nations consist of people. And with their effort, a nation can accomplish all it could ever want."*
+> *"Strong And Bitter Words Indicate A Weak Cause."*
 > 
-> **— Abdul Kalam**
+> **— Victor Hugo**
 
-<sub>Updated on September 10, 2025</sub>
+<sub>Updated on September 11, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
