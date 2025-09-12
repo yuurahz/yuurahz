@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Strong And Bitter Words Indicate A Weak Cause."*
+> *"I wonder at a man who loses hope of salvation when the door of repentance is open for him."*
 > 
-> **— Victor Hugo**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 11, 2025</sub>
+<sub>Updated on September 12, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
