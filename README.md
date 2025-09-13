@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I wonder at a man who loses hope of salvation when the door of repentance is open for him."*
+> *"People are of two types, they are either your brothers in faith or your equals in humanity."*
 > 
 > **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 12, 2025</sub>
+<sub>Updated on September 13, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
