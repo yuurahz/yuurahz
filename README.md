@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"People are of two types, they are either your brothers in faith or your equals in humanity."*
+> *"What Is Wanted Is Not The Will To Believe, But The Will To Find Out, Which Is The Exact Opposite."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Bertrand Russell**
 
-<sub>Updated on September 13, 2025</sub>
+<sub>Updated on September 14, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
