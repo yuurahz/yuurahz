@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"What Is Wanted Is Not The Will To Believe, But The Will To Find Out, Which Is The Exact Opposite."*
+> *"If We Did All The Things We Are Capable Of, We Would Literally Astound Ourselves."*
 > 
-> **— Bertrand Russell**
+> **— Thomas A. Edison**
 
-<sub>Updated on September 14, 2025</sub>
+<sub>Updated on September 15, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
