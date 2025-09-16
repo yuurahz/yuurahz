@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If We Did All The Things We Are Capable Of, We Would Literally Astound Ourselves."*
+> *"I Was Not Created To Be Occupied By Eating Delicious Foods Like Tied Up Cattle."*
 > 
-> **— Thomas A. Edison**
+> **— Ali Ibn Abi Talib**
 
-<sub>Updated on September 15, 2025</sub>
+<sub>Updated on September 16, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
