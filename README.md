@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Was Not Created To Be Occupied By Eating Delicious Foods Like Tied Up Cattle."*
+> *"Tolerance and understanding won't 'trickle down' in our society any more than wealth does."*
 > 
-> **— Ali Ibn Abi Talib**
+> **— Muhammad Ali**
 
-<sub>Updated on September 16, 2025</sub>
+<sub>Updated on September 17, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
