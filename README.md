@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Tolerance and understanding won't 'trickle down' in our society any more than wealth does."*
+> *"What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description."*
 > 
-> **— Muhammad Ali**
+> **— Rumi**
 
-<sub>Updated on September 17, 2025</sub>
+<sub>Updated on September 18, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
