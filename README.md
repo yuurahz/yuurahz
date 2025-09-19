@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description."*
+> *"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 18, 2025</sub>
+<sub>Updated on September 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
