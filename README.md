@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."*
+> *"Extreme Hopes Are Born From Extreme Misery."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Bertrand Russell**
 
-<sub>Updated on September 19, 2025</sub>
+<sub>Updated on September 20, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
