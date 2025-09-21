@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Extreme Hopes Are Born From Extreme Misery."*
+> *"India should walk on her own shadow - we must have our own development model."*
 > 
-> **— Bertrand Russell**
+> **— Abdul Kalam**
 
-<sub>Updated on September 20, 2025</sub>
+<sub>Updated on September 21, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
