@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"India should walk on her own shadow - we must have our own development model."*
+> *"When a man puts me a question, I judge of his intelligence."*
 > 
-> **— Abdul Kalam**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on September 21, 2025</sub>
+<sub>Updated on September 22, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
