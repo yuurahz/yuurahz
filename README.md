@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"When a man puts me a question, I judge of his intelligence."*
+> *"It is better to listen to a wise enemy than to seek counsel from a foolish friend."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 22, 2025</sub>
+<sub>Updated on September 23, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
