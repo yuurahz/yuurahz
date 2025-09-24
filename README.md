@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It is better to listen to a wise enemy than to seek counsel from a foolish friend."*
+> *"The Reports Of My Death Have Been Greatly Exaggerated."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Mark Twain**
 
-<sub>Updated on September 23, 2025</sub>
+<sub>Updated on September 24, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
