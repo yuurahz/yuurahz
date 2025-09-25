@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Reports Of My Death Have Been Greatly Exaggerated."*
+> *"The worst of our faults is our interest in other people's faults."*
 > 
-> **— Mark Twain**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 24, 2025</sub>
+<sub>Updated on September 25, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
