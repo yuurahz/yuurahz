@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The worst of our faults is our interest in other people's faults."*
+> *"In the silence of LOVE you will find the Spark of LIFE."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Rumi**
 
-<sub>Updated on September 25, 2025</sub>
+<sub>Updated on September 26, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
