@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"One Of The Greatest Discoveries A Man Makes, One Of His Great Surprises, Is To Find He Can Do What He Was Afraid He Couldn'T Do."*
+> *"There is no rest for the person who has envy, and there is no love for the person who has bad manners."*
 > 
-> **— Henry Ford**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 27, 2025</sub>
+<sub>Updated on September 28, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
