@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"There is no rest for the person who has envy, and there is no love for the person who has bad manners."*
+> *"I have lived on the lip of insanity, wanting to know reasons, knocking on a door. It opens. I've been knocking from the inside."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Rumi**
 
-<sub>Updated on September 28, 2025</sub>
+<sub>Updated on September 29, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
