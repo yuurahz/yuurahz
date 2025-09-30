@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I have lived on the lip of insanity, wanting to know reasons, knocking on a door. It opens. I've been knocking from the inside."*
+> *"Heart is a sea, language is the shore. Whatever is in a sea hits the shore."*
 > 
 > **— Rumi**
 
-<sub>Updated on September 29, 2025</sub>
+<sub>Updated on September 30, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
