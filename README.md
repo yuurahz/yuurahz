@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Heart is a sea, language is the shore. Whatever is in a sea hits the shore."*
+> *"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on September 30, 2025</sub>
+<sub>Updated on October 01, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
