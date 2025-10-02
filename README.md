@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."*
+> *"Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Aristotle**
 
-<sub>Updated on October 01, 2025</sub>
+<sub>Updated on October 02, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
