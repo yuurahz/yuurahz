@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."*
+> *"Let silence take you to the core of life."*
 > 
-> **— Aristotle**
+> **— Rumi**
 
-<sub>Updated on October 02, 2025</sub>
+<sub>Updated on October 03, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
