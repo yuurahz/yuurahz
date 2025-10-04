@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Let silence take you to the core of life."*
+> *"If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity."*
 > 
-> **— Rumi**
+> **— John F. Kennedy**
 
-<sub>Updated on October 03, 2025</sub>
+<sub>Updated on October 04, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
