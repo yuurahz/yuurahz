@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity."*
+> *"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."*
 > 
-> **— John F. Kennedy**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 04, 2025</sub>
+<sub>Updated on October 05, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
