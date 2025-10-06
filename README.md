@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"When proven wrong, the wise man will correct himself and the ignorant will keep arguing."*
+> *"The Roots Of Education Are Bitter, But The Fruit Is Sweet."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Aristotle**
 
-<sub>Updated on October 05, 2025</sub>
+<sub>Updated on October 06, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
