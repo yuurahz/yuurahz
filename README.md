@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Roots Of Education Are Bitter, But The Fruit Is Sweet."*
+> *"Courtesy costs nothing, but buys everything."*
 > 
-> **— Aristotle**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 06, 2025</sub>
+<sub>Updated on October 07, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
