@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Courtesy costs nothing, but buys everything."*
+> *"Bear sorrows and calamities patiently, otherwise you will never be happy."*
 > 
 > **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 07, 2025</sub>
+<sub>Updated on October 08, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
