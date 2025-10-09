@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Bear sorrows and calamities patiently, otherwise you will never be happy."*
+> *"Knowledge is of two kinds: that which is absorbed and that which is heard. And that which is heard does not profit if it is not absorbed."*
 > 
 > **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 08, 2025</sub>
+<sub>Updated on October 09, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
