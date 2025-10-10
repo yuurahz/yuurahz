@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Knowledge is of two kinds: that which is absorbed and that which is heard. And that which is heard does not profit if it is not absorbed."*
+> *"Risk Comes From Not Knowing What You'Re Doing."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Warren Buffett**
 
-<sub>Updated on October 09, 2025</sub>
+<sub>Updated on October 10, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
