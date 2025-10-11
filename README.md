@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Risk Comes From Not Knowing What You'Re Doing."*
+> *"Get up sucker and fight. Get up and fight."*
 > 
-> **— Warren Buffett**
+> **— Muhammad Ali**
 
-<sub>Updated on October 10, 2025</sub>
+<sub>Updated on October 11, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
