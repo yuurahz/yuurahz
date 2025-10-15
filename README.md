@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."*
+> *"God Helps Those Who Help Themselves."*
 > 
-> **— Paulo Coelho**
+> **— Benjamin Franklin**
 
-<sub>Updated on October 14, 2025</sub>
+<sub>Updated on October 15, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
