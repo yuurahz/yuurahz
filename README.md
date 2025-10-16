@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"God Helps Those Who Help Themselves."*
+> *"The Law Is Reason, Free From Passion."*
 > 
-> **— Benjamin Franklin**
+> **— Aristotle**
 
-<sub>Updated on October 15, 2025</sub>
+<sub>Updated on October 16, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
