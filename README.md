@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Law Is Reason, Free From Passion."*
+> *"You may learn to imitate a birdcall, but do you experience what the nightingale feels for the rose?"*
 > 
-> **— Aristotle**
+> **— Rumi**
 
-<sub>Updated on October 16, 2025</sub>
+<sub>Updated on October 17, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
