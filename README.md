@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You may learn to imitate a birdcall, but do you experience what the nightingale feels for the rose?"*
+> *"When you see that any scholar loves the world, then his scholarship is in doubt."*
 > 
-> **— Rumi**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on October 17, 2025</sub>
+<sub>Updated on October 18, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
