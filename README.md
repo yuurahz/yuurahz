@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"When you see that any scholar loves the world, then his scholarship is in doubt."*
+> *"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."*
 > 
 > **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on October 18, 2025</sub>
+<sub>Updated on October 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
