@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To speak less is wisdom, to eat less is healthy, and to mingle less with te people is safe and serene."*
+> *"Luxury is an obstacle, and so is the fatness of the body."*
 > 
 > **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on October 19, 2025</sub>
+<sub>Updated on October 20, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
