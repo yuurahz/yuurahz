@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Luxury is an obstacle, and so is the fatness of the body."*
+> *"Life Loves The Liver Of It."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Maya Angelou**
 
-<sub>Updated on October 20, 2025</sub>
+<sub>Updated on October 21, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
