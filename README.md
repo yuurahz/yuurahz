@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It Is Most Pleasant To Commit A Just Action Which Is Disagreeable To Someone Whom One Does Not Like."*
+> *"Asceticism is not that you should not own anything, but that nothing should own you."*
 > 
-> **— Victor Hugo**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 24, 2025</sub>
+<sub>Updated on October 25, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
