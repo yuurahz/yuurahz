@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Asceticism is not that you should not own anything, but that nothing should own you."*
+> *"Even the greatest was once a beginner. Don't be afraid to take that first step."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on October 25, 2025</sub>
+<sub>Updated on October 26, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
