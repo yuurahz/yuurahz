@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Even the greatest was once a beginner. Don't be afraid to take that first step."*
+> *"Wealth tends to create enemies, whereas knowledge tends to warm hearts."*
 > 
-> **— Muhammad Ali**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 26, 2025</sub>
+<sub>Updated on October 27, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
