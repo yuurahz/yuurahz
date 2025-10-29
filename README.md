@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All."*
+> *"Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird."*
 > 
-> **— Robin Williams**
+> **— Neil Armstrong**
 
-<sub>Updated on October 28, 2025</sub>
+<sub>Updated on October 29, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
