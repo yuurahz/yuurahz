@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird."*
+> *"I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul."*
 > 
-> **— Neil Armstrong**
+> **— Rumi**
 
-<sub>Updated on October 29, 2025</sub>
+<sub>Updated on October 30, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
