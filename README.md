@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul."*
+> *"As a young citizen of India, armed with technology and love for my nation, I realize, a small aim is a crime."*
 > 
-> **— Rumi**
+> **— Abdul Kalam**
 
-<sub>Updated on October 30, 2025</sub>
+<sub>Updated on October 31, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
