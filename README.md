@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"As a young citizen of India, armed with technology and love for my nation, I realize, a small aim is a crime."*
+> *"Eating Words Has Never Given Me Indigestion."*
 > 
-> **— Abdul Kalam**
+> **— Winston Churchill**
 
-<sub>Updated on October 31, 2025</sub>
+<sub>Updated on November 01, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
