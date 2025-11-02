@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Eating Words Has Never Given Me Indigestion."*
+> *"I Don'T Like That Man. I Must Get To Know Him Better."*
 > 
-> **— Winston Churchill**
+> **— Abraham Lincoln**
 
-<sub>Updated on November 01, 2025</sub>
+<sub>Updated on November 02, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
