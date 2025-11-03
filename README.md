@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Don'T Like That Man. I Must Get To Know Him Better."*
+> *"To Fear Love Is To Fear Life, And Those Who Fear Life Are Already Three Parts Dead."*
 > 
-> **— Abraham Lincoln**
+> **— Bertrand Russell**
 
-<sub>Updated on November 02, 2025</sub>
+<sub>Updated on November 03, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
