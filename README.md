@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To Fear Love Is To Fear Life, And Those Who Fear Life Are Already Three Parts Dead."*
+> *"I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."*
 > 
-> **— Bertrand Russell**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on November 03, 2025</sub>
+<sub>Updated on November 04, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
