@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."*
+> *"In a competition of love we'll all share in the victory, no matter who comes first."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on November 04, 2025</sub>
+<sub>Updated on November 05, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
