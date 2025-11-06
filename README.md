@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"In a competition of love we'll all share in the victory, no matter who comes first."*
+> *"Wherever You Go, Go With All Your Heart."*
 > 
-> **— Muhammad Ali**
+> **— Confucius**
 
-<sub>Updated on November 05, 2025</sub>
+<sub>Updated on November 06, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
