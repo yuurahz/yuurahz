@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Wherever You Go, Go With All Your Heart."*
+> *"O Allah do not give me in excess lest I may be disobedient."*
 > 
-> **— Confucius**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on November 06, 2025</sub>
+<sub>Updated on November 07, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
