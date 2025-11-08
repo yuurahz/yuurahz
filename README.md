@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"O Allah do not give me in excess lest I may be disobedient."*
+> *"Last night I had a dream. When I got to Africa, I had one hell of a rumble. I had to beat Tarzan's behind first, for claiming to be King of the Jungle."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on November 07, 2025</sub>
+<sub>Updated on November 08, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
