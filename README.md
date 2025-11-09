@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Last night I had a dream. When I got to Africa, I had one hell of a rumble. I had to beat Tarzan's behind first, for claiming to be King of the Jungle."*
+> *"Our Scientific Power Has Outrun Our Spiritual Power. We Have Guided Missiles And Misguided Men."*
 > 
-> **— Muhammad Ali**
+> **— Martin Luther King, Jr.**
 
-<sub>Updated on November 08, 2025</sub>
+<sub>Updated on November 09, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
