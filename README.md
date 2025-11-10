@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Our Scientific Power Has Outrun Our Spiritual Power. We Have Guided Missiles And Misguided Men."*
+> *"O Allah do not give me in excess lest I may be disobedient."*
 > 
-> **— Martin Luther King, Jr.**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on November 09, 2025</sub>
+<sub>Updated on November 10, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
