@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"O Allah do not give me in excess lest I may be disobedient."*
+> *"It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on November 10, 2025</sub>
+<sub>Updated on November 11, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
