@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing."*
+> *"People Say Satire Is Dead. It'S Not Dead; It'S Alive And Living In The White House."*
 > 
-> **— Muhammad Ali**
+> **— Robin Williams**
 
-<sub>Updated on November 11, 2025</sub>
+<sub>Updated on November 12, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
