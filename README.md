@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"People Say Satire Is Dead. It'S Not Dead; It'S Alive And Living In The White House."*
+> *"In every religion there is love, yet love has no religion."*
 > 
-> **— Robin Williams**
+> **— Rumi**
 
-<sub>Updated on November 12, 2025</sub>
+<sub>Updated on November 13, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
