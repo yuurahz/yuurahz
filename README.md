@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"In every religion there is love, yet love has no religion."*
+> *"If all you can do is crawl, start crawling."*
 > 
 > **— Rumi**
 
-<sub>Updated on November 13, 2025</sub>
+<sub>Updated on November 14, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
