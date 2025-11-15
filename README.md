@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If all you can do is crawl, start crawling."*
+> *"You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions."*
 > 
-> **— Rumi**
+> **— Naguib Mahfouz**
 
-<sub>Updated on November 14, 2025</sub>
+<sub>Updated on November 15, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
