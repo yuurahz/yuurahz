@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions."*
+> *"An alert and learned man will take advice from any event."*
 > 
-> **— Naguib Mahfouz**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on November 15, 2025</sub>
+<sub>Updated on November 16, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
