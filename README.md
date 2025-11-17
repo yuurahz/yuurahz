@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"An alert and learned man will take advice from any event."*
+> *"I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Martin Luther**
 
-<sub>Updated on November 16, 2025</sub>
+<sub>Updated on November 17, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
