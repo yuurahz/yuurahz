@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess."*
+> *"The happiest of people is the one under whose care people are happy because of him, and the most miserable of people is the one under whose care people are miserable because of him."*
 > 
-> **— Martin Luther**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on November 17, 2025</sub>
+<sub>Updated on November 18, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
