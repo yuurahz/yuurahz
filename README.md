@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The happiest of people is the one under whose care people are happy because of him, and the most miserable of people is the one under whose care people are miserable because of him."*
+> *"Forget safety. Live where you fear to live. Destroy your reputation. Be notorious."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Rumi**
 
-<sub>Updated on November 18, 2025</sub>
+<sub>Updated on November 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
