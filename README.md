@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Forget safety. Live where you fear to live. Destroy your reputation. Be notorious."*
+> *"A heart filled with love is like a phoenix that no cage can imprison."*
 > 
 > **— Rumi**
 
-<sub>Updated on November 19, 2025</sub>
+<sub>Updated on November 20, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
