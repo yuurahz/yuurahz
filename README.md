@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A heart filled with love is like a phoenix that no cage can imprison."*
+> *"I Want To Know All Gods Thoughts; All The Rest Are Just Details."*
 > 
-> **— Rumi**
+> **— Albert Einstein**
 
-<sub>Updated on November 20, 2025</sub>
+<sub>Updated on November 21, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
