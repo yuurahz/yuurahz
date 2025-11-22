@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Want To Know All Gods Thoughts; All The Rest Are Just Details."*
+> *"Our greatest strength lies in the gentleness and tenderness of our heart."*
 > 
-> **— Albert Einstein**
+> **— Rumi**
 
-<sub>Updated on November 21, 2025</sub>
+<sub>Updated on November 22, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
