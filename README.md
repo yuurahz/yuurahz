@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Our greatest strength lies in the gentleness and tenderness of our heart."*
+> *"I don't always know what I'm talking about, but I know I'm right."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
-<sub>Updated on November 22, 2025</sub>
+<sub>Updated on November 23, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
