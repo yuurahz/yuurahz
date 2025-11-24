@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I don't always know what I'm talking about, but I know I'm right."*
+> *"Be Happy In The Moment, That'S Enough. Each Moment Is All We Need, Not More."*
 > 
-> **— Muhammad Ali**
+> **— Mother Teresa**
 
-<sub>Updated on November 23, 2025</sub>
+<sub>Updated on November 24, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
