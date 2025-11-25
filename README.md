@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Be Happy In The Moment, That'S Enough. Each Moment Is All We Need, Not More."*
+> *"The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter."*
 > 
-> **— Mother Teresa**
+> **— Paulo Coelho**
 
-<sub>Updated on November 24, 2025</sub>
+<sub>Updated on November 25, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
