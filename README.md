@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Two Hardest Tests On The Spiritual Road Are The Patience To Wait For The Right Moment And The Courage Not To Be Disappointed With What We Encounter."*
+> *"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."*
 > 
-> **— Paulo Coelho**
+> **— Muhammad Ali**
 
-<sub>Updated on November 25, 2025</sub>
+<sub>Updated on November 26, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
