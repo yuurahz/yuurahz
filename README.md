@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."*
+> *"To forgive an oppressor is oppression upon the oppressed."*
 > 
-> **— Muhammad Ali**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on November 26, 2025</sub>
+<sub>Updated on November 27, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
