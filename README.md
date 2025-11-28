@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To forgive an oppressor is oppression upon the oppressed."*
+> *"Words are a pretext. It is the inner bond that draws one person to another, not words."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Rumi**
 
-<sub>Updated on November 27, 2025</sub>
+<sub>Updated on November 28, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
