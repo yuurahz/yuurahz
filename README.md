@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Words are a pretext. It is the inner bond that draws one person to another, not words."*
+> *"I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder."*
 > 
-> **— Rumi**
+> **— Salma Hayek**
 
-<sub>Updated on November 28, 2025</sub>
+<sub>Updated on November 29, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
