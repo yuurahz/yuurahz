@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Our Greatest Fear Should Not Be Of Failure But Of Succeeding At Things In Life That Don'T Really Matter."*
+> *"Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn."*
 > 
-> **— Francis Chan**
+> **— Benjamin Franklin**
 
-<sub>Updated on November 30, 2025</sub>
+<sub>Updated on December 01, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
