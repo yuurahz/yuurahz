@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn."*
+> *"Set your life on fire. Seek those who fan your flames."*
 > 
-> **— Benjamin Franklin**
+> **— Rumi**
 
-<sub>Updated on December 01, 2025</sub>
+<sub>Updated on December 02, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
