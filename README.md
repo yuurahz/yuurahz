@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Set your life on fire. Seek those who fan your flames."*
+> *"God helps those who fear Him."*
 > 
-> **— Rumi**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on December 02, 2025</sub>
+<sub>Updated on December 03, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
