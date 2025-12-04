@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"God helps those who fear Him."*
+> *"Every nation has to follow a certain policy: Commercial, trade, various other types of policies."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on December 03, 2025</sub>
+<sub>Updated on December 04, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
