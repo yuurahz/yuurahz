@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Every nation has to follow a certain policy: Commercial, trade, various other types of policies."*
+> *"I know you're tired but come, this is the way."*
 > 
-> **— Abdul Kalam**
+> **— Rumi**
 
-<sub>Updated on December 04, 2025</sub>
+<sub>Updated on December 05, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
