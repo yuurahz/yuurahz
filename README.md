@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I know you're tired but come, this is the way."*
+> *"Float like a butterfly, sting like a bee."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
-<sub>Updated on December 05, 2025</sub>
+<sub>Updated on December 06, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
