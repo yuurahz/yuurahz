@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Float like a butterfly, sting like a bee."*
+> *"Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing."*
 > 
-> **— Muhammad Ali**
+> **— Rumi**
 
-<sub>Updated on December 06, 2025</sub>
+<sub>Updated on December 07, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
