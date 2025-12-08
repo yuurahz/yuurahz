@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Once the seed of faith takes root, it cannot be blown away, even by the strongest wind - Now that's a blessing."*
+> *"Authority, power, and wealth do not change a man; they only reveal him."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on December 07, 2025</sub>
+<sub>Updated on December 08, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
