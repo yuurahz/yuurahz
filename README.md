@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Authority, power, and wealth do not change a man; they only reveal him."*
+> *"Life Loves To Be Taken By The Lapel And Told: "I'M With You Kid. Let'S Go.""*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Maya Angelou**
 
-<sub>Updated on December 08, 2025</sub>
+<sub>Updated on December 09, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
