@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Life Loves To Be Taken By The Lapel And Told: "I'M With You Kid. Let'S Go.""*
+> *"Never, Never, Never Give Up."*
 > 
-> **— Maya Angelou**
+> **— Winston Churchill**
 
-<sub>Updated on December 09, 2025</sub>
+<sub>Updated on December 10, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
