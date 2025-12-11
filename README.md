@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Never, Never, Never Give Up."*
+> *"Do not be an arrogant scholar, for scholarship cannot subsist with arrogance."*
 > 
-> **— Winston Churchill**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on December 10, 2025</sub>
+<sub>Updated on December 11, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
