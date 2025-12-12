@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not be an arrogant scholar, for scholarship cannot subsist with arrogance."*
+> *"Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Iqbal**
 
-<sub>Updated on December 11, 2025</sub>
+<sub>Updated on December 12, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
