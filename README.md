@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders."*
+> *"Seek the wisdom that will untie your knot. Seek the path that demands your whole being."*
 > 
-> **— Muhammad Iqbal**
+> **— Rumi**
 
-<sub>Updated on December 12, 2025</sub>
+<sub>Updated on December 13, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
