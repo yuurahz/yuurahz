@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Seek the wisdom that will untie your knot. Seek the path that demands your whole being."*
+> *"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary."*
 > 
-> **— Rumi**
+> **— Abraham Lincoln**
 
-<sub>Updated on December 13, 2025</sub>
+<sub>Updated on December 14, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
