@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To Give Victory To The Right, Not Bloody Bullets, But Peaceful Ballots Only, Are Necessary."*
+> *"He Is Winding The Watch Of His Wit; By And By It Will Strike."*
 > 
-> **— Abraham Lincoln**
+> **— William Shakespeare**
 
-<sub>Updated on December 14, 2025</sub>
+<sub>Updated on December 15, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
