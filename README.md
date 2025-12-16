@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He Is Winding The Watch Of His Wit; By And By It Will Strike."*
+> *"No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections."*
 > 
-> **— William Shakespeare**
+> **— Winston Churchill**
 
-<sub>Updated on December 15, 2025</sub>
+<sub>Updated on December 16, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
