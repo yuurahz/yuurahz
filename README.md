@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"No Part Of The Education Of A Politician Is More Indispensable Than The Fighting Of Elections."*
+> *"If I could meet anybody? The prophet Muhammad."*
 > 
-> **— Winston Churchill**
+> **— Muhammad Ali**
 
-<sub>Updated on December 16, 2025</sub>
+<sub>Updated on December 17, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
