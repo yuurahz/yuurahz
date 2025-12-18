@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If I could meet anybody? The prophet Muhammad."*
+> *"I Feel The Same Way About Disco As I Do About Herpes."*
 > 
-> **— Muhammad Ali**
+> **— Hunter S. Thompson**
 
-<sub>Updated on December 17, 2025</sub>
+<sub>Updated on December 18, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
