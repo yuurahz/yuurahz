@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Feel The Same Way About Disco As I Do About Herpes."*
+> *"It'S Better To Be A Lion For A Day Than A Sheep All Your Life."*
 > 
-> **— Hunter S. Thompson**
+> **— Elizabeth Kenny**
 
-<sub>Updated on December 18, 2025</sub>
+<sub>Updated on December 19, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
