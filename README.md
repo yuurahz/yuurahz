@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It'S Better To Be A Lion For A Day Than A Sheep All Your Life."*
+> *"The best deed of a great man is to forgive and forget."*
 > 
-> **— Elizabeth Kenny**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on December 19, 2025</sub>
+<sub>Updated on December 20, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
