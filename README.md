@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The best deed of a great man is to forgive and forget."*
+> *"Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Ali Ibn Abi Talib**
 
-<sub>Updated on December 20, 2025</sub>
+<sub>Updated on December 21, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
