@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed."*
+> *"The only lasting beauty is the beauty of the heart."*
 > 
-> **— Ali Ibn Abi Talib**
+> **— Rumi**
 
-<sub>Updated on December 21, 2025</sub>
+<sub>Updated on December 22, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
