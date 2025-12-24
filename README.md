@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Because I cannot sleep I make music in the night."*
+> *"Vanity prevents improvement."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on December 23, 2025</sub>
+<sub>Updated on December 24, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
