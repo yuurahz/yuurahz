@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Vanity prevents improvement."*
+> *"Economy forced me to become a vegetarian, but I finally starting liking it."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on December 24, 2025</sub>
+<sub>Updated on December 25, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
