@@ -22,30 +22,14 @@
 <!-- QUOTE:END -->
 
 
-<div align="center">
-
-## Tech Stack
-
-<details>
-  <summary>Click to expand</summary>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,bash,git,github,vscode,mongodb,redis,supabase,figma,docker,prisma&perline=8" />
-</p>
-
-</div>
-
-<div align="center">
-
-</details>
-
 ## GitHub Stats
+
 
 </div>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true[...]">
   </a>
 </p>
 
