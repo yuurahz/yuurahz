@@ -12,11 +12,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Economy forced me to become a vegetarian, but I finally starting liking it."*
+> *"Live life as if its rigged in your favor."*
 > 
-> **— Abdul Kalam**
+> **— Rumi**
 
-<sub>Updated on December 25, 2025</sub>
+<sub>Updated on December 26, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
