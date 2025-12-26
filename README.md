@@ -12,9 +12,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Live life as if its rigged in your favor."*
+> *"Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech."*
 > 
-> **— Rumi**
+> **— Benjamin Franklin**
 
 <sub>Updated on December 26, 2025</sub>
 
