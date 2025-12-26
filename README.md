@@ -16,9 +16,9 @@
 
 ## 📝 Quote of the Day
 
-> *"If Allah wants for a people ill, he gives them debates and takes away from them actions."*
+> *"Man needs his difficulties because they are necessary to enjoy success."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Abdul Kalam**
 
 <sub>Updated on December 26, 2025</sub>
 
