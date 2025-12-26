@@ -43,10 +43,11 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuurahz&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuurahz&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurahz&theme=tokyo-night" alt="Activity Graph"/>
