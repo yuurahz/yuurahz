@@ -28,21 +28,11 @@
 </div>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true[...]">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rfiiy7cv7rf6gkw5ewysendfcq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurahz&theme=tokyo-night" alt="Activity Graph"/>
 </div>
-
-
-<div align="center">
-
-## Top Languages
-
-</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuurahz&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
