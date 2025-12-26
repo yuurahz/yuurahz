@@ -12,9 +12,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech."*
+> *"Let me alone, and go in search of someone else."*
 > 
-> **— Benjamin Franklin**
+> **— Ali ibn Abi Talib (R.A)**
 
 <sub>Updated on December 26, 2025</sub>
 
