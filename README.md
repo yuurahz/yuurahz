@@ -12,9 +12,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Let me alone, and go in search of someone else."*
+> *"If Allah wants for a people ill, he gives them debates and takes away from them actions."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Umar ibn Al-Khattāb (R.A)**
 
 <sub>Updated on December 26, 2025</sub>
 
