@@ -16,9 +16,9 @@
 
 ## 📝 Quote of the Day
 
-> *"This being human is a guest house. Every morning a new arrival. Welcome and entertain them all!"*
+> *"I am the greatest. I said that even before I knew I was. Don't tell me I can't do something. Don't tell me it's impossible. Don't tell me I'm not the greatest. I'm the double greatest."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
 <sub>Updated on December 27, 2025</sub>
 
