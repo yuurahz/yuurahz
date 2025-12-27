@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Man needs his difficulties because they are necessary to enjoy success."*
+> *"This being human is a guest house. Every morning a new arrival. Welcome and entertain them all!"*
 > 
-> **— Abdul Kalam**
+> **— Rumi**
 
-<sub>Updated on December 26, 2025</sub>
+<sub>Updated on December 27, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
