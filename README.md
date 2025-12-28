@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I am the greatest. I said that even before I knew I was. Don't tell me I can't do something. Don't tell me it's impossible. Don't tell me I'm not the greatest. I'm the double greatest."*
+> *"I'm so mean I make medicine sick!"*
 > 
 > **— Muhammad Ali**
 
-<sub>Updated on December 27, 2025</sub>
+<sub>Updated on December 28, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
