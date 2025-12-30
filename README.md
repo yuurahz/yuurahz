@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Mickey Mouse Is, To Me, A Symbol Of Independence. He Was A Means To An End."*
+> *"Nothing Will Work Unless You Do."*
 > 
-> **— Walt Disney**
+> **— Maya Angelou**
 
-<sub>Updated on December 29, 2025</sub>
+<sub>Updated on December 30, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
