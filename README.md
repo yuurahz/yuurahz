@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Nothing Will Work Unless You Do."*
+> *"What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description."*
 > 
-> **— Maya Angelou**
+> **— Rumi**
 
-<sub>Updated on December 30, 2025</sub>
+<sub>Updated on December 31, 2025</sub>
 
 </div>
 <!-- QUOTE:END -->
