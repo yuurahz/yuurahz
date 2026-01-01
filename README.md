@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"What comes, will go. What is found, will be lost again. But what you are is beyond coming and going and beyond description."*
+> *"The weakest man is the one who is able to correct his moral defects, but doesn't take action."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on December 31, 2025</sub>
+<sub>Updated on January 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
