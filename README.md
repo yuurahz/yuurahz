@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The weakest man is the one who is able to correct his moral defects, but doesn't take action."*
+> *"Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Rumi**
 
-<sub>Updated on January 01, 2026</sub>
+<sub>Updated on January 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
