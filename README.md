@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Heart be brave. If you cannot be brave, just go. Love's glory is not a small thing."*
+> *"All Credibility, All Good Conscience, All Evidence Of Truth Come Only From The Senses."*
 > 
-> **— Rumi**
+> **— Friedrich Nietzsche**
 
-<sub>Updated on January 02, 2026</sub>
+<sub>Updated on January 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
