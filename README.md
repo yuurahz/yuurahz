@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Religions have different names, and they all contain truth, expressed in different ways forms and times."*
+> *"What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions."*
 > 
-> **— Muhammad Ali**
+> **— Abdul Kalam**
 
-<sub>Updated on January 04, 2026</sub>
+<sub>Updated on January 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
