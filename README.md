@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions."*
+> *"All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope."*
 > 
-> **— Abdul Kalam**
+> **— Winston Churchill**
 
-<sub>Updated on January 05, 2026</sub>
+<sub>Updated on January 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
