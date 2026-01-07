@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope."*
+> *"Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms."*
 > 
-> **— Winston Churchill**
+> **— Aristotle**
 
-<sub>Updated on January 06, 2026</sub>
+<sub>Updated on January 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
