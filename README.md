@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others."*
+> *"Life is balance of holding on and letting go."*
 > 
-> **— Albert Camus**
+> **— Rumi**
 
-<sub>Updated on January 09, 2026</sub>
+<sub>Updated on January 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
