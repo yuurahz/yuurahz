@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Life is balance of holding on and letting go."*
+> *"Whoever listens to slander is himself a slanderer."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
-<sub>Updated on January 10, 2026</sub>
+<sub>Updated on January 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
