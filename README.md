@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Whoever listens to slander is himself a slanderer."*
+> *"Greed is permanent slavery."*
 > 
-> **— Muhammad Ali**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on January 11, 2026</sub>
+<sub>Updated on January 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
