@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Greed is permanent slavery."*
+> *"Should I Kill Myself, Or Have A Cup Of Coffee?"*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Albert Camus**
 
-<sub>Updated on January 12, 2026</sub>
+<sub>Updated on January 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
