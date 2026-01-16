@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less."*
+> *"Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding."*
 > 
-> **— C. S. Lewis**
+> **— Abdul Kalam**
 
-<sub>Updated on January 15, 2026</sub>
+<sub>Updated on January 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
