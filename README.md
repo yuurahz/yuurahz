@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding."*
+> *"Do Not Impose On Others What You Yourself Do Not Desire."*
 > 
-> **— Abdul Kalam**
+> **— Confucius**
 
-<sub>Updated on January 16, 2026</sub>
+<sub>Updated on January 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
