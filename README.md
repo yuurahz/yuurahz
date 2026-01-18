@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do Not Impose On Others What You Yourself Do Not Desire."*
+> *"That's okay, I'm still the Greatest."*
 > 
-> **— Confucius**
+> **— Muhammad Ali**
 
-<sub>Updated on January 17, 2026</sub>
+<sub>Updated on January 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
