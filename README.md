@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"That's okay, I'm still the Greatest."*
+> *"Body is purified by water. Ego by tears. Intellect is purified by knowledge. And soul is purified with love."*
 > 
-> **— Muhammad Ali**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on January 18, 2026</sub>
+<sub>Updated on January 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
