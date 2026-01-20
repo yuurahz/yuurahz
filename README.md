@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Body is purified by water. Ego by tears. Intellect is purified by knowledge. And soul is purified with love."*
+> *"A heart filled with love is like a phoenix that no cage can imprison."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Rumi**
 
-<sub>Updated on January 19, 2026</sub>
+<sub>Updated on January 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
