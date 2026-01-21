@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A heart filled with love is like a phoenix that no cage can imprison."*
+> *"The Two Most Important Days In Your Life Are The Day You Are Born And The Day You Find Out Why."*
 > 
-> **— Rumi**
+> **— Mark Twain**
 
-<sub>Updated on January 20, 2026</sub>
+<sub>Updated on January 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
