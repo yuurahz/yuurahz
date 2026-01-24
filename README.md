@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Best Way To Know God Is To Love Many Things."*
+> *"Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires."*
 > 
-> **— Vincent Van Gogh**
+> **— Bertrand Russell**
 
-<sub>Updated on January 23, 2026</sub>
+<sub>Updated on January 24, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
