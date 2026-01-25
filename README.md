@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires."*
+> *"You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people."*
 > 
-> **— Bertrand Russell**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on January 24, 2026</sub>
+<sub>Updated on January 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
