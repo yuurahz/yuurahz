@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people."*
+> *"A Good Conscience Is A Continual Christmas."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Benjamin Franklin**
 
-<sub>Updated on January 25, 2026</sub>
+<sub>Updated on January 26, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
