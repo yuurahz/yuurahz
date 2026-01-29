@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Not Life, But Good Life, Is To Be Chiefly Valued."*
+> *"Whatever pearl you seek, look for the pearl within the pearl!"*
 > 
-> **— Socrates**
+> **— Rumi**
 
-<sub>Updated on January 28, 2026</sub>
+<sub>Updated on January 29, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
