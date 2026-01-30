@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Whatever pearl you seek, look for the pearl within the pearl!"*
+> *"I'm too fast. I'm too smart. I'm too pretty."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
-<sub>Updated on January 29, 2026</sub>
+<sub>Updated on January 30, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
