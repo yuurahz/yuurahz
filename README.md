@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I'm too fast. I'm too smart. I'm too pretty."*
+> *"Dance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free."*
 > 
-> **— Muhammad Ali**
+> **— Rumi**
 
-<sub>Updated on January 30, 2026</sub>
+<sub>Updated on January 31, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
