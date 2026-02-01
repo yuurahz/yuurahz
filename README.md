@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Dance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free."*
+> *"Our Greatest Weakness Lies In Giving Up. The Most Certain Way To Succeed Is Always To Try Just One More Time."*
 > 
-> **— Rumi**
+> **— Thomas A. Edison**
 
-<sub>Updated on January 31, 2026</sub>
+<sub>Updated on February 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
