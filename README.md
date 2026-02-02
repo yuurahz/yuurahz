@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Our Greatest Weakness Lies In Giving Up. The Most Certain Way To Succeed Is Always To Try Just One More Time."*
+> *"I Like My Wine Like My Women - Ready To Pass Out."*
 > 
-> **— Thomas A. Edison**
+> **— Robin Williams**
 
-<sub>Updated on February 01, 2026</sub>
+<sub>Updated on February 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
