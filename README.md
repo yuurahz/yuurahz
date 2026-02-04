@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"At Times One Remains Faithful To A Cause Only Because Its Opponents Do Not Cease To Be Insipid."*
+> *"Your souls are precious and can only be equal to the price of Paradise, therefore sell them only at that price."*
 > 
-> **— Friedrich Nietzsche**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on February 03, 2026</sub>
+<sub>Updated on February 04, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
