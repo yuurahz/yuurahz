@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Now you see me, now you don't. George thinks he will, but I know he won't!"*
+> *"I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'."*
 > 
-> **— Muhammad Ali**
+> **— Maya Angelou**
 
-<sub>Updated on February 05, 2026</sub>
+<sub>Updated on February 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
