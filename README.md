@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Everything in the universe is within you. Ask all from yourself."*
+> *"I Am Always Ready To Learn Although I Do Not Always Like Being Taught."*
 > 
-> **— Rumi**
+> **— Winston Churchill**
 
-<sub>Updated on February 08, 2026</sub>
+<sub>Updated on February 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
