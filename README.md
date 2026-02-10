@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Am Always Ready To Learn Although I Do Not Always Like Being Taught."*
+> *"If you want to control other people, first control yourself."*
 > 
-> **— Winston Churchill**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on February 09, 2026</sub>
+<sub>Updated on February 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
