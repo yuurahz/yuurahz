@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If you want to control other people, first control yourself."*
+> *"A Well-Spent Day Brings Happy Sleep."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Leonardo Da Vinci**
 
-<sub>Updated on February 10, 2026</sub>
+<sub>Updated on February 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
