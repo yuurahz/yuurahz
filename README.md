@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Well-Spent Day Brings Happy Sleep."*
+> *"I Wish I Could Give You A Taste Of The Burning Fire Of Love. There Is A Fire Blazing Inside Of Me. If I Cry About It, Or If I Don't, The Fire Is At Work, Night And Day."*
 > 
-> **— Leonardo Da Vinci**
+> **— Rumi**
 
-<sub>Updated on February 11, 2026</sub>
+<sub>Updated on February 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
