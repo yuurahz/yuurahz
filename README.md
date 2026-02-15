@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If We Really Want To Love We Must Learn How To Forgive."*
+> *"Things May Come To Those Who Wait, But Only The Things Left By Those Who Hustle."*
 > 
-> **— Mother Teresa**
+> **— Abraham Lincoln**
 
-<sub>Updated on February 14, 2026</sub>
+<sub>Updated on February 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
