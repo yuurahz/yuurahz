@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Things May Come To Those Who Wait, But Only The Things Left By Those Who Hustle."*
+> *"Let go of your mind and then be mindful. Close your ears and listen!"*
 > 
-> **— Abraham Lincoln**
+> **— Rumi**
 
-<sub>Updated on February 15, 2026</sub>
+<sub>Updated on February 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
