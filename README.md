@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Let go of your mind and then be mindful. Close your ears and listen!"*
+> *"The only limitations one has, are the ones they place on themselves."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
-<sub>Updated on February 16, 2026</sub>
+<sub>Updated on February 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
