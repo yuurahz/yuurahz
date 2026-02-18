@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The only limitations one has, are the ones they place on themselves."*
+> *"If You Have A Particular Faith Or Religion, That Is Good. But You Can Survive Without It."*
 > 
-> **— Muhammad Ali**
+> **— Dalai Lama**
 
-<sub>Updated on February 17, 2026</sub>
+<sub>Updated on February 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
