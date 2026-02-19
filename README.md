@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If You Have A Particular Faith Or Religion, That Is Good. But You Can Survive Without It."*
+> *"Try something different. Surrender."*
 > 
-> **— Dalai Lama**
+> **— Rumi**
 
-<sub>Updated on February 18, 2026</sub>
+<sub>Updated on February 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
