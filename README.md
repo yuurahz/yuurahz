@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Try something different. Surrender."*
+> *"The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things."*
 > 
 > **— Rumi**
 
-<sub>Updated on February 19, 2026</sub>
+<sub>Updated on February 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
