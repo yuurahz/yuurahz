@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The lamps are different, but the Light is the same. One matter, one energy, one Light, one Light-mind, endlessly emanating all things."*
+> *"Courage Is Resistance To Fear, Mastery Of Fear, Not Absence Of Fear."*
 > 
-> **— Rumi**
+> **— Mark Twain**
 
-<sub>Updated on February 20, 2026</sub>
+<sub>Updated on February 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
