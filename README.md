@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose."*
+> *"Do not be misled by hearing of anyone's reputation."*
 > 
-> **— Bill Gates**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on February 26, 2026</sub>
+<sub>Updated on February 27, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
