@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not be misled by hearing of anyone's reputation."*
+> *"I have learned to live my life one step, one breath, and one moment at a time, but it was a long road. I set out on a journey of love, seeking truth, peace and understanding. I am still learning."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on February 27, 2026</sub>
+<sub>Updated on February 28, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
