@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Am The Literary Equivalent Of A Big Mac And Fries."*
+> *"To My Mind The Old Masters Are Not Art; Their Value Is In Their Scarcity."*
 > 
-> **— Stephen King**
+> **— Thomas A. Edison**
 
-<sub>Updated on March 01, 2026</sub>
+<sub>Updated on March 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
