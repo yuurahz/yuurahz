@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To My Mind The Old Masters Are Not Art; Their Value Is In Their Scarcity."*
+> *"The chess master says nothing, other than moving the silent chess piece."*
 > 
-> **— Thomas A. Edison**
+> **— Rumi**
 
-<sub>Updated on March 02, 2026</sub>
+<sub>Updated on March 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
