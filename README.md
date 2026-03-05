@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm."*
+> *"Know thyself, and thou shalt know God."*
 > 
-> **— Winston Churchill**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on March 04, 2026</sub>
+<sub>Updated on March 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
