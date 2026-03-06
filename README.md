@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Know thyself, and thou shalt know God."*
+> *"Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Warren Buffett**
 
-<sub>Updated on March 05, 2026</sub>
+<sub>Updated on March 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
