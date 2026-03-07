@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1."*
+> *"You Cannot Perform In A Manner Inconsistent With The Way You See Yourself."*
 > 
-> **— Warren Buffett**
+> **— Zig Ziglar**
 
-<sub>Updated on March 06, 2026</sub>
+<sub>Updated on March 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
