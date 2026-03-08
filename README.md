@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Cannot Perform In A Manner Inconsistent With The Way You See Yourself."*
+> *"When The Going Gets Weird, The Weird Turn Pro."*
 > 
-> **— Zig Ziglar**
+> **— Hunter S. Thompson**
 
-<sub>Updated on March 07, 2026</sub>
+<sub>Updated on March 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
