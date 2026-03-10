@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He Who Avoids Complaint Invites Happiness."*
+> *"You Can Never Solve A Problem On The Level On Which It Was Created."*
 > 
-> **— Abu Bakr**
+> **— Albert Einstein**
 
-<sub>Updated on March 09, 2026</sub>
+<sub>Updated on March 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
