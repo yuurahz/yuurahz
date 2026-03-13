@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Know Why Divorces Are So Expensive? They'Re Worth It."*
+> *"The word of God is the medicine of the heart."*
 > 
-> **— Willie Nelson**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on March 12, 2026</sub>
+<sub>Updated on March 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
