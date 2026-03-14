@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The word of God is the medicine of the heart."*
+> *"If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on March 13, 2026</sub>
+<sub>Updated on March 14, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
