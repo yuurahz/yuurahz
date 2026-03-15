@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him."*
+> *"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on March 14, 2026</sub>
+<sub>Updated on March 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
