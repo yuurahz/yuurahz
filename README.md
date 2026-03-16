@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."*
+> *"It Has Been My Experience That Folks Who Have No Vices Have Very Few Virtues."*
 > 
-> **— Abdul Kalam**
+> **— Abraham Lincoln**
 
-<sub>Updated on March 15, 2026</sub>
+<sub>Updated on March 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
