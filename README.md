@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Fear Is The Main Source Of Superstition, And One Of The Main Sources Of Cruelty. To Conquer Fear Is The Beginning Of Wisdom."*
+> *"The highest person is he who is of most use to humankind."*
 > 
-> **— Bertrand Russell**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on March 17, 2026</sub>
+<sub>Updated on March 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
