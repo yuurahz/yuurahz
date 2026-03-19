@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The highest person is he who is of most use to humankind."*
+> *"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Winston Churchill**
 
-<sub>Updated on March 18, 2026</sub>
+<sub>Updated on March 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
