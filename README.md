@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."*
+> *"Geologists Have A Saying - Rocks Remember."*
 > 
-> **— Winston Churchill**
+> **— Neil Armstrong**
 
-<sub>Updated on March 19, 2026</sub>
+<sub>Updated on March 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
