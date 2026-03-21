@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Geologists Have A Saying - Rocks Remember."*
+> *"As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."*
 > 
-> **— Neil Armstrong**
+> **— William Shakespeare**
 
-<sub>Updated on March 20, 2026</sub>
+<sub>Updated on March 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
