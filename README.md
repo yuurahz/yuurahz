@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."*
+> *"Renouncing the worldly pleasures is a comfort for both the human heart and body."*
 > 
-> **— William Shakespeare**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on March 21, 2026</sub>
+<sub>Updated on March 22, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
