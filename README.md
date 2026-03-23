@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Renouncing the worldly pleasures is a comfort for both the human heart and body."*
+> *"Imagination Is More Important Than Knowledge."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Albert Einstein**
 
-<sub>Updated on March 22, 2026</sub>
+<sub>Updated on March 23, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
