@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Imagination Is More Important Than Knowledge."*
+> *"Asceticism is not that you should not own anything, but that nothing should own you."*
 > 
-> **— Albert Einstein**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on March 23, 2026</sub>
+<sub>Updated on March 24, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
