@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Asceticism is not that you should not own anything, but that nothing should own you."*
+> *"Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on March 24, 2026</sub>
+<sub>Updated on March 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
