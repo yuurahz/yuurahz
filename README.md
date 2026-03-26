@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."*
+> *"Art Is The Proper Task Of Life."*
 > 
-> **— Abdul Kalam**
+> **— Friedrich Nietzsche**
 
-<sub>Updated on March 25, 2026</sub>
+<sub>Updated on March 26, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
