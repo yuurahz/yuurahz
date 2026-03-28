@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"When A Person Cannot Deceive Himself The Chances Are Against His Being Able To Deceive Other People."*
+> *"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."*
 > 
-> **— Mark Twain**
+> **— Abdul Kalam**
 
-<sub>Updated on March 27, 2026</sub>
+<sub>Updated on March 28, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
