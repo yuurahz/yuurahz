@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity."*
+> *"Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing."*
 > 
-> **— Abdul Kalam**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on March 28, 2026</sub>
+<sub>Updated on March 29, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
