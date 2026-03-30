@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing."*
+> *"Set your life on fire. Seek those who fan your flames."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Rumi**
 
-<sub>Updated on March 29, 2026</sub>
+<sub>Updated on March 30, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
