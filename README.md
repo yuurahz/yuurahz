@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Set your life on fire. Seek those who fan your flames."*
+> *"Man comes from a drop of semen and leaves as a piece of dust. He doesn't know when he came and he doesn't know when he's leaving, yet he walks on the earth thinking he knows everything."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on March 30, 2026</sub>
+<sub>Updated on March 31, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
