@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Man comes from a drop of semen and leaves as a piece of dust. He doesn't know when he came and he doesn't know when he's leaving, yet he walks on the earth thinking he knows everything."*
+> *"He who wins through fraud is not a winner."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on March 31, 2026</sub>
+<sub>Updated on April 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
