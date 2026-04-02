@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He who wins through fraud is not a winner."*
+> *"As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— William Shakespeare**
 
-<sub>Updated on April 01, 2026</sub>
+<sub>Updated on April 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
