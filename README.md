@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words."*
+> *"We Make Up Horrors To Help Us Cope With The Real Ones."*
 > 
-> **— William Shakespeare**
+> **— Stephen King**
 
-<sub>Updated on April 02, 2026</sub>
+<sub>Updated on April 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
