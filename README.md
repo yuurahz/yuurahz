@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"We Make Up Horrors To Help Us Cope With The Real Ones."*
+> *"To My Mind The Old Masters Are Not Art; Their Value Is In Their Scarcity."*
 > 
-> **— Stephen King**
+> **— Thomas A. Edison**
 
-<sub>Updated on April 03, 2026</sub>
+<sub>Updated on April 04, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
