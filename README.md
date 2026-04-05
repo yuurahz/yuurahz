@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To My Mind The Old Masters Are Not Art; Their Value Is In Their Scarcity."*
+> *"Do Not Impose On Others What You Yourself Do Not Desire."*
 > 
-> **— Thomas A. Edison**
+> **— Confucius**
 
-<sub>Updated on April 04, 2026</sub>
+<sub>Updated on April 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
