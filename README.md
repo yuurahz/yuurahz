@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do Not Impose On Others What You Yourself Do Not Desire."*
+> *"A Man Should Never Neglect His Family For Business."*
 > 
-> **— Confucius**
+> **— Walt Disney**
 
-<sub>Updated on April 05, 2026</sub>
+<sub>Updated on April 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
