@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Man Should Never Neglect His Family For Business."*
+> *"I want to sing like the birds sing, not worrying about who hears or what they think."*
 > 
-> **— Walt Disney**
+> **— Rumi**
 
-<sub>Updated on April 06, 2026</sub>
+<sub>Updated on April 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
