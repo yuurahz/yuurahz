@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I want to sing like the birds sing, not worrying about who hears or what they think."*
+> *"A Question That Sometimes Drives Me Hazy: Am I Or Are The Others Crazy?"*
 > 
-> **— Rumi**
+> **— Albert Einstein**
 
-<sub>Updated on April 07, 2026</sub>
+<sub>Updated on April 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
