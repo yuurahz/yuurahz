@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Question That Sometimes Drives Me Hazy: Am I Or Are The Others Crazy?"*
+> *"Renouncing the worldly pleasures is a comfort for both the human heart and body."*
 > 
-> **— Albert Einstein**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on April 08, 2026</sub>
+<sub>Updated on April 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
