@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Renouncing the worldly pleasures is a comfort for both the human heart and body."*
+> *"May Allah bless the man who says less and does more."*
 > 
 > **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on April 09, 2026</sub>
+<sub>Updated on April 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
