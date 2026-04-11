@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"May Allah bless the man who says less and does more."*
+> *"I Am The Greatest, I Said That Even Before I Knew I Was."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on April 10, 2026</sub>
+<sub>Updated on April 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
