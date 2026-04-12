@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Am The Greatest, I Said That Even Before I Knew I Was."*
+> *"People Do Not Lack Strength; They Lack Will."*
 > 
-> **— Muhammad Ali**
+> **— Victor Hugo**
 
-<sub>Updated on April 11, 2026</sub>
+<sub>Updated on April 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
