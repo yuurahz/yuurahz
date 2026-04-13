@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"People Do Not Lack Strength; They Lack Will."*
+> *"Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier."*
 > 
-> **— Victor Hugo**
+> **— Mother Teresa**
 
-<sub>Updated on April 12, 2026</sub>
+<sub>Updated on April 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
