@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier."*
+> *"To fight against one's desires is the greatest of all fights."*
 > 
-> **— Mother Teresa**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on April 13, 2026</sub>
+<sub>Updated on April 14, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
