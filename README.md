@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To fight against one's desires is the greatest of all fights."*
+> *"Why Is It That We Rejoice At A Birth And Grieve At A Funeral? It Is Because We Are Not The Person Involved."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Mark Twain**
 
-<sub>Updated on April 14, 2026</sub>
+<sub>Updated on April 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
