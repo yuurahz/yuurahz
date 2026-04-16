@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Why Is It That We Rejoice At A Birth And Grieve At A Funeral? It Is Because We Are Not The Person Involved."*
+> *"There is no goodness in people who don't give advice, and there is no goodness in people who don't like to be advised."*
 > 
-> **— Mark Twain**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on April 15, 2026</sub>
+<sub>Updated on April 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
