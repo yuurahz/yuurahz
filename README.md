@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"There is no goodness in people who don't give advice, and there is no goodness in people who don't like to be advised."*
+> *"May Allah have mercy on him who sends me my faults as a present."*
 > 
 > **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on April 16, 2026</sub>
+<sub>Updated on April 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
