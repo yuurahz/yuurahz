@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"May Allah have mercy on him who sends me my faults as a present."*
+> *"This life is not real. I conquered the world and it did not bring me satisfaction."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on April 17, 2026</sub>
+<sub>Updated on April 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
