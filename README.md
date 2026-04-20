@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"All Great Achievements Require Time."*
+> *"Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm."*
 > 
-> **— Maya Angelou**
+> **— Winston Churchill**
 
-<sub>Updated on April 19, 2026</sub>
+<sub>Updated on April 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
