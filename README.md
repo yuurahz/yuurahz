@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm."*
+> *"We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them."*
 > 
-> **— Winston Churchill**
+> **— Abdul Kalam**
 
-<sub>Updated on April 20, 2026</sub>
+<sub>Updated on April 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
