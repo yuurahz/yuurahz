@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"We have not invaded anyone. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them."*
+> *"Others may know pleasure, but pleasure is not happiness. It has no more importance than a shadow following a man."*
 > 
-> **— Abdul Kalam**
+> **— Muhammad Ali**
 
-<sub>Updated on April 21, 2026</sub>
+<sub>Updated on April 22, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
