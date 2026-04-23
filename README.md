@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Others may know pleasure, but pleasure is not happiness. It has no more importance than a shadow following a man."*
+> *"When Obstacles Arise, You Change Your Direction To Reach Your Goal; You Do Not Change Your Decision To Get There."*
 > 
-> **— Muhammad Ali**
+> **— Zig Ziglar**
 
-<sub>Updated on April 22, 2026</sub>
+<sub>Updated on April 23, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
