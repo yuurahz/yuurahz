@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"No Matter What People Tell You, Words And Ideas Can Change The World."*
+> *"He who does not live in the way of his beliefs starts to believe in the way he lives."*
 > 
-> **— Robin Williams**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on April 24, 2026</sub>
+<sub>Updated on April 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
