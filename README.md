@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Convictions Are More Dangerous Foes Of Truth Than Lies."*
+> *"I am not this hair. I am not this skin. I am the soul that lives within."*
 > 
-> **— Friedrich Nietzsche**
+> **— Rumi**
 
-<sub>Updated on April 27, 2026</sub>
+<sub>Updated on April 28, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
