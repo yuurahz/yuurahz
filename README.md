@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I am not this hair. I am not this skin. I am the soul that lives within."*
+> *"Reader, Suppose You Were An Idiot. And Suppose You Were A Member Of Congress. But I Repeat Myself."*
 > 
-> **— Rumi**
+> **— Mark Twain**
 
-<sub>Updated on April 28, 2026</sub>
+<sub>Updated on April 29, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
