@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If they can make penicillin out of moldy bread, then they can sure make something out of you."*
+> *"All is known in the sacredness of silence."*
 > 
-> **— Muhammad Ali**
+> **— Rumi**
 
-<sub>Updated on May 01, 2026</sub>
+<sub>Updated on May 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
