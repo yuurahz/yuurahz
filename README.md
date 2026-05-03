@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"All is known in the sacredness of silence."*
+> *"Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day."*
 > 
-> **— Rumi**
+> **— Friedrich Nietzsche**
 
-<sub>Updated on May 02, 2026</sub>
+<sub>Updated on May 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
