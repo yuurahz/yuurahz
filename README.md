@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Women are the field that produces our nation. And if you can't protect your women, you can't protect your nation."*
+> *"If anybody seeks your advice, offer right and sincere advice."*
 > 
-> **— Muhammad Ali**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on May 04, 2026</sub>
+<sub>Updated on May 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
