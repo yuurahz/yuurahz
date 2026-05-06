@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If anybody seeks your advice, offer right and sincere advice."*
+> *"I Don'T Want To Make Money, I Just Want To Be Wonderful."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Marilyn Monroe**
 
-<sub>Updated on May 05, 2026</sub>
+<sub>Updated on May 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
