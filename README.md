@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Don'T Want To Make Money, I Just Want To Be Wonderful."*
+> *"I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him."*
 > 
-> **— Marilyn Monroe**
+> **— Abraham Lincoln**
 
-<sub>Updated on May 06, 2026</sub>
+<sub>Updated on May 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
