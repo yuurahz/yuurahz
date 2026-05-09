@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"God gave me this illness to remind me that I'm not Number One; He is."*
+> *"He who keeps his own counsel keeps his affairs in his own hands."*
 > 
-> **— Muhammad Ali**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on May 08, 2026</sub>
+<sub>Updated on May 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
