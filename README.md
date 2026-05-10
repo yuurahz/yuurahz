@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He who keeps his own counsel keeps his affairs in his own hands."*
+> *"No One Has Ever Become Poor By Giving."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Anne Frank**
 
-<sub>Updated on May 09, 2026</sub>
+<sub>Updated on May 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
