@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"No One Has Ever Become Poor By Giving."*
+> *"The Law Is Reason, Free From Passion."*
 > 
-> **— Anne Frank**
+> **— Aristotle**
 
-<sub>Updated on May 10, 2026</sub>
+<sub>Updated on May 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
