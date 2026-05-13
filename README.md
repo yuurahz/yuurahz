@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose."*
+> *"The happiest of people is the one under whose care people are happy because of him, and the most miserable of people is the one under whose care people are miserable because of him."*
 > 
-> **— Bill Gates**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on May 12, 2026</sub>
+<sub>Updated on May 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
