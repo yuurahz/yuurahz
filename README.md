@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The happiest of people is the one under whose care people are happy because of him, and the most miserable of people is the one under whose care people are miserable because of him."*
+> *"Nations Are Born In The Hearts Of Poets, They Prosper And Die In The Hands Of Politicians."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Muhammad Iqbal**
 
-<sub>Updated on May 13, 2026</sub>
+<sub>Updated on May 14, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
