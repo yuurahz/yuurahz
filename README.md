@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Nations Are Born In The Hearts Of Poets, They Prosper And Die In The Hands Of Politicians."*
+> *"May Allah have mercy on him who sends me my faults as a present."*
 > 
-> **— Muhammad Iqbal**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on May 14, 2026</sub>
+<sub>Updated on May 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
