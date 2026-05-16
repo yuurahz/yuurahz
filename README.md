@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"May Allah have mercy on him who sends me my faults as a present."*
+> *"All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on May 15, 2026</sub>
+<sub>Updated on May 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
