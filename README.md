@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence."*
+> *"Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will."*
 > 
-> **— Abdul Kalam**
+> **— Zig Ziglar**
 
-<sub>Updated on May 16, 2026</sub>
+<sub>Updated on May 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
