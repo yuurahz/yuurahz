@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will."*
+> *"For 2,500 years, India has never invaded anybody."*
 > 
-> **— Zig Ziglar**
+> **— Abdul Kalam**
 
-<sub>Updated on May 17, 2026</sub>
+<sub>Updated on May 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
