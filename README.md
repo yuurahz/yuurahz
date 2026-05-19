@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"For 2,500 years, India has never invaded anybody."*
+> *"A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything."*
 > 
-> **— Abdul Kalam**
+> **— Friedrich Nietzsche**
 
-<sub>Updated on May 18, 2026</sub>
+<sub>Updated on May 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
