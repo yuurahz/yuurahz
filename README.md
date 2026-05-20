@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Casual Stroll Through The Lunatic Asylum Shows That Faith Does Not Prove Anything."*
+> *"Life Well Spent Is Long."*
 > 
-> **— Friedrich Nietzsche**
+> **— Leonardo Da Vinci**
 
-<sub>Updated on May 19, 2026</sub>
+<sub>Updated on May 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
