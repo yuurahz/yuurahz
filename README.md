@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Life Well Spent Is Long."*
+> *"There is no capital more useful than intellect and wisdom, and there is no indigence more injurious than ignorance and unawareness."*
 > 
-> **— Leonardo Da Vinci**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on May 20, 2026</sub>
+<sub>Updated on May 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
