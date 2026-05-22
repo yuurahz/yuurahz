@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"There is no capital more useful than intellect and wisdom, and there is no indigence more injurious than ignorance and unawareness."*
+> *"May Allah have mercy on him who sends me my faults as a present."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on May 21, 2026</sub>
+<sub>Updated on May 22, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
