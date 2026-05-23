@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"May Allah have mercy on him who sends me my faults as a present."*
+> *"The Quality, Not The Longevity, Of One'S Life Is What Is Important."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Martin Luther King, Jr.**
 
-<sub>Updated on May 22, 2026</sub>
+<sub>Updated on May 23, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
