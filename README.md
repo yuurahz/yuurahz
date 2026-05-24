@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Quality, Not The Longevity, Of One'S Life Is What Is Important."*
+> *"If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."*
 > 
-> **— Martin Luther King, Jr.**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on May 23, 2026</sub>
+<sub>Updated on May 24, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
