@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."*
+> *"Change Your Opinions, Keep To Your Principles; Change Your Leaves, Keep Intact Your Roots."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Victor Hugo**
 
-<sub>Updated on May 24, 2026</sub>
+<sub>Updated on May 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
