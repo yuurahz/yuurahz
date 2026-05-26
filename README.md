@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Change Your Opinions, Keep To Your Principles; Change Your Leaves, Keep Intact Your Roots."*
+> *"You see, God helps only people who work hard. That principle is very clear."*
 > 
-> **— Victor Hugo**
+> **— Abdul Kalam**
 
-<sub>Updated on May 25, 2026</sub>
+<sub>Updated on May 26, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
