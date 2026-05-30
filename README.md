@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It Has Been My Experience That Folks Who Have No Vices Have Very Few Virtues."*
+> *"I Dream Of An Africa Which Is In Peace With Itself."*
 > 
-> **— Abraham Lincoln**
+> **— Nelson Mandela**
 
-<sub>Updated on May 29, 2026</sub>
+<sub>Updated on May 30, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
