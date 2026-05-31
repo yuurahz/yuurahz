@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Dream Of An Africa Which Is In Peace With Itself."*
+> *"The wiser a man is, the less talkative will he be."*
 > 
-> **— Nelson Mandela**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on May 30, 2026</sub>
+<sub>Updated on May 31, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
