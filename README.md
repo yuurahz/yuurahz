@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The wiser a man is, the less talkative will he be."*
+> *"Every day, nay every moment, try to do some good deed."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on May 31, 2026</sub>
+<sub>Updated on June 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
