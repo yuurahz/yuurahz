@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Every day, nay every moment, try to do some good deed."*
+> *"Don't grieve. Anything you lose comes round in another form."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Rumi**
 
-<sub>Updated on June 01, 2026</sub>
+<sub>Updated on June 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
