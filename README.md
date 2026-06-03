@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Don't grieve. Anything you lose comes round in another form."*
+> *"Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All."*
 > 
-> **— Rumi**
+> **— Robin Williams**
 
-<sub>Updated on June 02, 2026</sub>
+<sub>Updated on June 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
