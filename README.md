@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All."*
+> *"If You Are Out To Describe The Truth, Leave Elegance To The Tailor."*
 > 
-> **— Robin Williams**
+> **— Albert Einstein**
 
-<sub>Updated on June 03, 2026</sub>
+<sub>Updated on June 04, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
