@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If You Are Out To Describe The Truth, Leave Elegance To The Tailor."*
+> *"Success is when your signature becomes an autograph."*
 > 
-> **— Albert Einstein**
+> **— Abdul Kalam**
 
-<sub>Updated on June 04, 2026</sub>
+<sub>Updated on June 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
