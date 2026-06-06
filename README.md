@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Success is when your signature becomes an autograph."*
+> *"God gave me this illness to remind me that I'm not Number One; He is."*
 > 
-> **— Abdul Kalam**
+> **— Muhammad Ali**
 
-<sub>Updated on June 05, 2026</sub>
+<sub>Updated on June 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
