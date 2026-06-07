@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"God gave me this illness to remind me that I'm not Number One; He is."*
+> *"Even The Darkest Night Will End And The Sun Will Rise."*
 > 
-> **— Muhammad Ali**
+> **— Victor Hugo**
 
-<sub>Updated on June 06, 2026</sub>
+<sub>Updated on June 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
