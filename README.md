@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Even The Darkest Night Will End And The Sun Will Rise."*
+> *"Youth is not restored by the dyeing of your hair."*
 > 
-> **— Victor Hugo**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on June 07, 2026</sub>
+<sub>Updated on June 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
