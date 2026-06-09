@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Youth is not restored by the dyeing of your hair."*
+> *"People Say Satire Is Dead. It'S Not Dead; It'S Alive And Living In The White House."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Robin Williams**
 
-<sub>Updated on June 08, 2026</sub>
+<sub>Updated on June 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
