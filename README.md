@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"People Say Satire Is Dead. It'S Not Dead; It'S Alive And Living In The White House."*
+> *"If We Open A Quarrel Between Past And Present, We Shall Find That We Have Lost The Future."*
 > 
-> **— Robin Williams**
+> **— Winston Churchill**
 
-<sub>Updated on June 09, 2026</sub>
+<sub>Updated on June 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
