@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If We Open A Quarrel Between Past And Present, We Shall Find That We Have Lost The Future."*
+> *"Try not to resist the changes that come your way. Instead let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come?"*
 > 
-> **— Winston Churchill**
+> **— Rumi**
 
-<sub>Updated on June 10, 2026</sub>
+<sub>Updated on June 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
