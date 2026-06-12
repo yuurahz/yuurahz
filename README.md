@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Try not to resist the changes that come your way. Instead let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come?"*
+> *"He who understands humanity seeks solitude."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on June 11, 2026</sub>
+<sub>Updated on June 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
