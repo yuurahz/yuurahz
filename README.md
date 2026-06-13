@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He who understands humanity seeks solitude."*
+> *"A Person Who Never Made A Mistake Never Tried Anything New."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Albert Einstein**
 
-<sub>Updated on June 12, 2026</sub>
+<sub>Updated on June 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
