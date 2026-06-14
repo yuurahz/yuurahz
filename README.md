@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Person Who Never Made A Mistake Never Tried Anything New."*
+> *"O Love, O pure deep Love, be here, be now, be all..."*
 > 
-> **— Albert Einstein**
+> **— Rumi**
 
-<sub>Updated on June 13, 2026</sub>
+<sub>Updated on June 14, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
