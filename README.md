@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"O Love, O pure deep Love, be here, be now, be all..."*
+> *"The Best Way To Get A Bad Law Repealed Is To Enforce It Strictly."*
 > 
-> **— Rumi**
+> **— Abraham Lincoln**
 
-<sub>Updated on June 14, 2026</sub>
+<sub>Updated on June 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
