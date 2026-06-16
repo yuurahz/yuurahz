@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Best Way To Get A Bad Law Repealed Is To Enforce It Strictly."*
+> *"He who is not courageous enough to take risks will accomplish nothing in life."*
 > 
-> **— Abraham Lincoln**
+> **— Muhammad Ali**
 
-<sub>Updated on June 15, 2026</sub>
+<sub>Updated on June 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
