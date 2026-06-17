@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He who is not courageous enough to take risks will accomplish nothing in life."*
+> *"The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue."*
 > 
-> **— Muhammad Ali**
+> **— Leonardo Da Vinci**
 
-<sub>Updated on June 16, 2026</sub>
+<sub>Updated on June 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
