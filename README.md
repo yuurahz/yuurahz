@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue."*
+> *"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less."*
 > 
-> **— Leonardo Da Vinci**
+> **— Marie Curie**
 
-<sub>Updated on June 17, 2026</sub>
+<sub>Updated on June 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
