@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Nothing In Life Is To Be Feared, It Is Only To Be Understood. Now Is The Time To Understand More, So That We May Fear Less."*
+> *"I don't count my situps. I only start counting once it starts hurting."*
 > 
-> **— Marie Curie**
+> **— Muhammad Ali**
 
-<sub>Updated on June 18, 2026</sub>
+<sub>Updated on June 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
