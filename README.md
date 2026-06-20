@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I don't count my situps. I only start counting once it starts hurting."*
+> *"A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer."*
 > 
-> **— Muhammad Ali**
+> **— Bruce Lee**
 
-<sub>Updated on June 19, 2026</sub>
+<sub>Updated on June 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
