@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer."*
+> *"Try something different. Surrender."*
 > 
-> **— Bruce Lee**
+> **— Rumi**
 
-<sub>Updated on June 20, 2026</sub>
+<sub>Updated on June 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
