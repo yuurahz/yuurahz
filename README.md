@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."*
+> *"Intentions count in your actions."*
 > 
 > **— Abu Bakr (R.A)**
 
-<sub>Updated on June 22, 2026</sub>
+<sub>Updated on June 23, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
