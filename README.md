@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Intentions count in your actions."*
+> *"Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Abu Bakr**
 
-<sub>Updated on June 23, 2026</sub>
+<sub>Updated on June 24, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
