@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Pride In The Case Of A Rich Man Is Bad, But Pride In The Case Of A Poor Man Is Worse."*
+> *"Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom."*
 > 
-> **— Abu Bakr**
+> **— Rumi**
 
-<sub>Updated on June 24, 2026</sub>
+<sub>Updated on June 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
