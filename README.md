@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom."*
+> *"Two things cause people to be destroyed: fear of poverty and seeking superiority through pride."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on June 25, 2026</sub>
+<sub>Updated on June 26, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
