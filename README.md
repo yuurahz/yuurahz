@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Two things cause people to be destroyed: fear of poverty and seeking superiority through pride."*
+> *"Life Loves The Liver Of It."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Maya Angelou**
 
-<sub>Updated on June 26, 2026</sub>
+<sub>Updated on June 27, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
