@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Life Loves The Liver Of It."*
+> *"It Ain'T What You Don'T Know That Gets You Into Trouble. It'S What You Know For Sure That Just Ain'T So."*
 > 
-> **— Maya Angelou**
+> **— Mark Twain**
 
-<sub>Updated on June 27, 2026</sub>
+<sub>Updated on June 28, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
