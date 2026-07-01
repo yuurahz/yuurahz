@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice."*
+> *"Lovely days don't come to you, you should walk to them."*
 > 
-> **— Bill Cosby**
+> **— Rumi**
 
-<sub>Updated on June 30, 2026</sub>
+<sub>Updated on July 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
