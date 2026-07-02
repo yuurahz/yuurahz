@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Lovely days don't come to you, you should walk to them."*
+> *"On every dishonest man, there are two watchmen, his possessions, and his way of living."*
 > 
-> **— Rumi**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on July 01, 2026</sub>
+<sub>Updated on July 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
