@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"On every dishonest man, there are two watchmen, his possessions, and his way of living."*
+> *"I Never Did A Day'S Work In My Life. It Was All Fun."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Thomas A. Edison**
 
-<sub>Updated on July 02, 2026</sub>
+<sub>Updated on July 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
