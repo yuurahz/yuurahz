@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"On every dishonest man, there are two watchmen, his possessions, and his way of living."*
+> *"The best brains of the nation may be found on the last benches of the classroom."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on July 04, 2026</sub>
+<sub>Updated on July 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
