@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The best brains of the nation may be found on the last benches of the classroom."*
+> *"My wealth is in my knowledge of self, love, and spirituality."*
 > 
-> **— Abdul Kalam**
+> **— Muhammad Ali**
 
-<sub>Updated on July 05, 2026</sub>
+<sub>Updated on July 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
