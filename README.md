@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"My wealth is in my knowledge of self, love, and spirituality."*
+> *"I Dream Of An Africa Which Is In Peace With Itself."*
 > 
-> **— Muhammad Ali**
+> **— Nelson Mandela**
 
-<sub>Updated on July 06, 2026</sub>
+<sub>Updated on July 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
