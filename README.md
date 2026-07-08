@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Dream Of An Africa Which Is In Peace With Itself."*
+> *"Do The Right Thing. It Will Gratify Some People And Astonish The Rest."*
 > 
-> **— Nelson Mandela**
+> **— Mark Twain**
 
-<sub>Updated on July 07, 2026</sub>
+<sub>Updated on July 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
