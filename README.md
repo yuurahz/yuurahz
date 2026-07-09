@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do The Right Thing. It Will Gratify Some People And Astonish The Rest."*
+> *"Israel, As The Jewish State, Must Disappear From The Map."*
 > 
-> **— Mark Twain**
+> **— Ahmed Yassin**
 
-<sub>Updated on July 08, 2026</sub>
+<sub>Updated on July 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
