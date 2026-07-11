@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Public Is Merely A Multiplied "Me.""*
+> *"One who is mild rather than forceful has greater capacity for outreach."*
 > 
-> **— Mark Twain**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on July 10, 2026</sub>
+<sub>Updated on July 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
