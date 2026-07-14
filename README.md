@@ -20,9 +20,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Drag Your Thoughts Away From Your Troubles... By The Ears, By The Heels, Or Any Other Way You Can Manage It."*
+> *"The weakest man is the one who is able to correct his moral defects, but doesn't take action."*
 > 
-> **— Mark Twain**
+> **— Ali ibn Abi Talib (R.A)**
 
 <sub>Updated on July 14, 2026</sub>
 
