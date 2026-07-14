@@ -16,9 +16,9 @@
 
 ## 📝 Quote of the Day
 
-> *"I was the first one in the gym, and the last one to leave."*
+> *"In this world, fear has no place. Only strength respects strength."*
 > 
-> **— Muhammad Ali**
+> **— Abdul Kalam**
 
 <sub>Updated on July 14, 2026</sub>
 
