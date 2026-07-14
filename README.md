@@ -1,15 +1,28 @@
-<div align="center">
-  
-## About Me
+<h1 align="center">Hi 👋, I'm yuurahz a Backend Developer</h1>
 
-> 🌱 Currently exploring **Web Development & APIs**  
-> 💡 Interested in **Backend Development, Open Source, and Automation**  
-> 🏆 Goal: Keep improving and building awesome projects  
-> 🎯 Motto: *"Code, Learn, Improve, Repeat."*
+<p align="center">
+<a href="https://https://yuurahz.is-a.dev">Website</a> •
+<a href="">Blog</a> •
+<a href="">Resume</a>
+</p>
 
-</div>
 
-----
+---
+
+A developer who is very enthusiastic about developing AI-based projects.
+
+---
+
+- 🔭 Currently working as **Backend Developer** at **Yoshida Tech**
+- 📚 Currently Learning: **RESTFul APIs**
+- 📍 Based in **Semarang, Indonesia**
+- ⚡ Fun Fact: **I like coffe and music**
+
+## 🌐 Connect With Me
+
+- <a href="https://yuurahz">🐙 GitHub</a>
+- <a href="https://yuurahzz">🦜 X/Twitter</a>
+- <a href="https://yuurahz">📷 Instagram</a>
 
 <!-- QUOTE:START -->
 <div align="center">
@@ -31,10 +44,10 @@
   </a>
 </p>
 
-<div align="center">
-  
 ## Current Stats
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuurahz&theme=tokyo-night" alt="Activity Graph"/>
-  
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=yuurahz&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+  <img src="https://streak-stats.demolab.com/?user=yuurahz&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuurahz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
