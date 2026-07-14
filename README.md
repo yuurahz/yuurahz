@@ -40,5 +40,5 @@
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=yuurahz&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
   <img src="https://streak-stats.demolab.com/?user=yuurahz&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=yuurahz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuurahz&theme=radical" alt="yuurahz GitHub Contribution"/>
 </div>
