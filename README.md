@@ -14,11 +14,11 @@
 <!-- QUOTE:START -->
 <div align="center">
 
-## Random quote of the Day
+## 📝 Quote of the Day
 
-> *"Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."*
+> *"Raise your words, not voice. It is rain that grows flowers, not thunder."*
 > 
-> **— Abdul Kalam**
+> **— Rumi**
 
 <sub>Updated on July 14, 2026</sub>
 
