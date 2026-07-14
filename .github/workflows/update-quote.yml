@@ -114,7 +114,7 @@ jobs:
           else
             echo "Committing changes..."
             git commit -m "🔄 Update daily quote - $(date +'%Y-%m-%d')"
-            git push
+            git push --force
             echo "Quote updated successfully!"
           fi
           
