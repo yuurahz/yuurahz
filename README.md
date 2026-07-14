@@ -16,9 +16,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Raise your words, not voice. It is rain that grows flowers, not thunder."*
+> *"I was the first one in the gym, and the last one to leave."*
 > 
-> **— Rumi**
+> **— Muhammad Ali**
 
 <sub>Updated on July 14, 2026</sub>
 
