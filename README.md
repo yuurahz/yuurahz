@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm yuurahz a Backend Developer</h1>
+<h1 align="center">Hi 👋, I'm yuurahz</h1>
 
 <p align="center">
 <a href="https://https://yuurahz.is-a.dev">Website</a> •
 <a href="">Blog</a> •
 <a href="">Resume</a>
 </p>
-
-
----
-
-A developer who is very enthusiastic about developing AI-based projects.
 
 ---
 
