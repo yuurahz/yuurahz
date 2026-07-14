@@ -6,19 +6,15 @@
 <a href="">Resume</a>
 </p>
 
----
-
 - 🔭 Currently working as **Backend Developer**
 - 📚 Currently Learning: **RESTFul APIs**
 - 📍 Based in **Lampung, Indonesia**
 - ⚡ Fun Fact: **I like coffe and music**
 
----
-
 <!-- QUOTE:START -->
 <div align="center">
 
-## 📝 Quote of the Day
+## Random quote of the Day
 
 > *"Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."*
 > 
