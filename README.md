@@ -8,16 +8,12 @@
 
 ---
 
-- 🔭 Currently working as **Backend Developer** at **Yoshida Tech**
+- 🔭 Currently working as **Backend Developer**
 - 📚 Currently Learning: **RESTFul APIs**
-- 📍 Based in **Semarang, Indonesia**
+- 📍 Based in **Lampung, Indonesia**
 - ⚡ Fun Fact: **I like coffe and music**
 
-## 🌐 Connect With Me
-
-- <a href="https://yuurahz">🐙 GitHub</a>
-- <a href="https://yuurahzz">🦜 X/Twitter</a>
-- <a href="https://yuurahz">📷 Instagram</a>
+---
 
 <!-- QUOTE:START -->
 <div align="center">
