@@ -20,9 +20,9 @@
 
 ## 📝 Quote of the Day
 
-> *"The weakest man is the one who is able to correct his moral defects, but doesn't take action."*
+> *"Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Rumi**
 
 <sub>Updated on July 14, 2026</sub>
 
