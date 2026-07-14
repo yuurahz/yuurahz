@@ -20,9 +20,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge."*
+> *"Learning gives creativity. Creativity leads to thinking. Thinking provides knowledge. Knowledge makes you great."*
 > 
-> **— Rumi**
+> **— Abdul Kalam**
 
 <sub>Updated on July 14, 2026</sub>
 
