@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors."*
+> *"Your longing for ME is my message to you, All your attempts to reach ME, Are in reality MY attempts to reach you."*
 > 
-> **— Confucius**
+> **— Rumi**
 
-<sub>Updated on July 15, 2026</sub>
+<sub>Updated on July 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
