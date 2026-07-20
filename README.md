@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Reality Is Merely An Illusion, Albeit A Very Persistent One."*
+> *"Be like a tree and let the dead leaves drop."*
 > 
-> **— Albert Einstein**
+> **— Rumi**
 
-<sub>Updated on July 19, 2026</sub>
+<sub>Updated on July 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
