@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Be like a tree and let the dead leaves drop."*
+> *"This Is One Small Step For A Man, One Giant Leap For Mankind."*
 > 
-> **— Rumi**
+> **— Neil Armstrong**
 
-<sub>Updated on July 20, 2026</sub>
+<sub>Updated on July 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
