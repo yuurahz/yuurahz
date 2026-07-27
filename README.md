@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"My wealth is in my knowledge of self, love, and spirituality."*
+> *"In the matter of justice, all should be equal in your eyes."*
 > 
-> **— Muhammad Ali**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on July 26, 2026</sub>
+<sub>Updated on July 27, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
