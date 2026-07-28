@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"In the matter of justice, all should be equal in your eyes."*
+> *"Anger Is An Acid That Can Do More Harm To The Vessel In Which It Is Stored Than To Anything On Which It Is Poured."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Mark Twain**
 
-<sub>Updated on July 27, 2026</sub>
+<sub>Updated on July 28, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
