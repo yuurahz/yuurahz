@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He who is not courageous enough to take risks will accomplish nothing in life."*
+> *"He Who Angers You Conquers You."*
 > 
-> **— Muhammad Ali**
+> **— Elizabeth Kenny**
 
-<sub>Updated on July 30, 2026</sub>
+<sub>Updated on July 31, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
