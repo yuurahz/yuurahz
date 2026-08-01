@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He Who Angers You Conquers You."*
+> *"One of the very important characteristics of a student is to question. Let the students ask questions."*
 > 
-> **— Elizabeth Kenny**
+> **— Abdul Kalam**
 
-<sub>Updated on July 31, 2026</sub>
+<sub>Updated on August 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
