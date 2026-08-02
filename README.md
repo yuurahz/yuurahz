@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"One of the very important characteristics of a student is to question. Let the students ask questions."*
+> *"Time Stays Long Enough For Anyone Who Will Use It."*
 > 
-> **— Abdul Kalam**
+> **— Leonardo Da Vinci**
 
-<sub>Updated on August 01, 2026</sub>
+<sub>Updated on August 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
