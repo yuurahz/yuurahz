@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Time Stays Long Enough For Anyone Who Will Use It."*
+> *"A Person Who Won'T Read Has No Advantage Over One Who Can'T Read."*
 > 
-> **— Leonardo Da Vinci**
+> **— Mark Twain**
 
-<sub>Updated on August 02, 2026</sub>
+<sub>Updated on August 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
