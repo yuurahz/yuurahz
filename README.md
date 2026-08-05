@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Achieving Life Is Not The Equivalent Of Avoiding Death."*
+> *"I am so mad with love that mad men say to me - be still!"*
 > 
-> **— Ayn Rand**
+> **— Rumi**
 
-<sub>Updated on August 04, 2026</sub>
+<sub>Updated on August 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
