@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I am so mad with love that mad men say to me - be still!"*
+> *"Beautiful people are not always good, but good people are always beautiful."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on August 05, 2026</sub>
+<sub>Updated on August 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
