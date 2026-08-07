@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Beautiful people are not always good, but good people are always beautiful."*
+> *"We Shall Draw From The Heart Of Suffering Itself The Means Of Inspiration And Survival."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Winston Churchill**
 
-<sub>Updated on August 06, 2026</sub>
+<sub>Updated on August 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
