@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"We Shall Draw From The Heart Of Suffering Itself The Means Of Inspiration And Survival."*
+> *"As We Express Our Gratitude, We Must Never Forget That The Highest Appreciation Is Not To Utter Words, But To Live By Them."*
 > 
-> **— Winston Churchill**
+> **— John F. Kennedy**
 
-<sub>Updated on August 07, 2026</sub>
+<sub>Updated on August 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
