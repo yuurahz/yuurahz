@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"As We Express Our Gratitude, We Must Never Forget That The Highest Appreciation Is Not To Utter Words, But To Live By Them."*
+> *"I Will Prepare And Some Day My Chance Will Come."*
 > 
-> **— John F. Kennedy**
+> **— Abraham Lincoln**
 
-<sub>Updated on August 08, 2026</sub>
+<sub>Updated on August 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
