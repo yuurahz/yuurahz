@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Will Prepare And Some Day My Chance Will Come."*
+> *"Your heart is the size of an ocean. Go find yourself in its hidden depths."*
 > 
-> **— Abraham Lincoln**
+> **— Rumi**
 
-<sub>Updated on August 09, 2026</sub>
+<sub>Updated on August 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
