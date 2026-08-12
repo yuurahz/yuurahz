@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"All your anxiety is because of your desire for harmony. Seek disharmony, then you will gain peace."*
+> *"When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps."*
 > 
-> **— Rumi**
+> **— Confucius**
 
-<sub>Updated on August 11, 2026</sub>
+<sub>Updated on August 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
