@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps."*
+> *"Everything That We See Is A Shadow Cast By That Which We Do Not See."*
 > 
-> **— Confucius**
+> **— Martin Luther King, Jr.**
 
-<sub>Updated on August 12, 2026</sub>
+<sub>Updated on August 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
