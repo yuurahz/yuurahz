@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Everything That We See Is A Shadow Cast By That Which We Do Not See."*
+> *"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin."*
 > 
-> **— Martin Luther King, Jr.**
+> **— Muhammad Ali**
 
-<sub>Updated on August 13, 2026</sub>
+<sub>Updated on August 14, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
