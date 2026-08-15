@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin."*
+> *"When you seek advice, do not withhold any facts from the person whose advice you seek."*
 > 
-> **— Muhammad Ali**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on August 14, 2026</sub>
+<sub>Updated on August 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
