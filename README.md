@@ -16,9 +16,9 @@
 
 ## 📝 Quote of the Day
 
-> *"When you seek advice, do not withhold any facts from the person whose advice you seek."*
+> *"The one from among the Muslims who recites the Qur'an but in the end finds his way to hell, is considered to be among those that have taken the word of Allah in jest."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Ali ibn Abi Talib (R.A)**
 
 <sub>Updated on August 15, 2026</sub>
 
