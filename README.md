@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm yuurahz</h1>
 
 <p align="center">
-<a href="https://https://yuurahz.is-a.dev">Website</a> •
-<a href="">Blog</a> •
-<a href="">Resume</a>
+<a href="https://yuurahz.is-a.dev/en">Website</a> •
+<a href="https://yuurahz.is-a.dev/en/blogs">Blog</a> •
+<a href="https://yuurahz.is-a.dev/cv">Resume</a>
 </p>
 
 - 🔭 Currently working as **Backend Developer**
