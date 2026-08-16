@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The one from among the Muslims who recites the Qur'an but in the end finds his way to hell, is considered to be among those that have taken the word of Allah in jest."*
+> *"Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abdul Kalam**
 
-<sub>Updated on August 15, 2026</sub>
+<sub>Updated on August 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
