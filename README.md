@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult."*
+> *"Extreme Hopes Are Born From Extreme Misery."*
 > 
-> **— Abdul Kalam**
+> **— Bertrand Russell**
 
-<sub>Updated on August 16, 2026</sub>
+<sub>Updated on August 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
