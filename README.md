@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Extreme Hopes Are Born From Extreme Misery."*
+> *"Sometimes the people with the worst past, create the best future."*
 > 
-> **— Bertrand Russell**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on August 17, 2026</sub>
+<sub>Updated on August 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
