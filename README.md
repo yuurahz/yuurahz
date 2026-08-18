@@ -16,9 +16,9 @@
 
 ## 📝 Quote of the Day
 
-> *"Sometimes the people with the worst past, create the best future."*
+> *"Intentions count in your actions."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Abu Bakr (R.A)**
 
 <sub>Updated on August 18, 2026</sub>
 
