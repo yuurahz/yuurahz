@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="https://yuurahz.is-a.dev/en">Website</a> •
-<a href="https://yuurahz.is-a.dev/en/blogs">Blog</a> •
-<a href="https://yuurahz.is-a.dev/cv">Resume</a>
+<a href="https://yuurahz.is-a.dev/en/blog">Blog</a> •
+<a href="https://yuurahz.is-a.dev/en/cv">Resume</a>
 </p>
 
 - 🔭 Currently working as **Backend Developer**
