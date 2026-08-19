@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Intentions count in your actions."*
+> *"Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Aristotle**
 
-<sub>Updated on August 18, 2026</sub>
+<sub>Updated on August 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
