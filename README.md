@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Democracy Is When The Indigent, And Not The Men Of Property, Are The Rulers."*
+> *"The Devil'S Voice Is Sweet To Hear."*
 > 
-> **— Aristotle**
+> **— Stephen King**
 
-<sub>Updated on August 19, 2026</sub>
+<sub>Updated on August 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
