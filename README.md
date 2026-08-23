@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Roots Of All Goodness Lie In The Soil Of Appreciation For Goodness."*
+> *"I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."*
 > 
-> **— Dalai Lama**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on August 22, 2026</sub>
+<sub>Updated on August 23, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
