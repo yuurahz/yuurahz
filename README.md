@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth."*
+> *"Islam will be destroyed by the mistakes of scholars, the arguments of the hypocrites who misinterpret the Qur'an to support their views and misleading rulers."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on August 23, 2026</sub>
+<sub>Updated on August 24, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
