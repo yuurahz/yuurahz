@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Islam will be destroyed by the mistakes of scholars, the arguments of the hypocrites who misinterpret the Qur'an to support their views and misleading rulers."*
+> *"People's hearts are like wild animals. They attach their selves to those that love and train them."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on August 24, 2026</sub>
+<sub>Updated on August 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
