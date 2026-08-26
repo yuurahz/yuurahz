@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"People's hearts are like wild animals. They attach their selves to those that love and train them."*
+> *"I Don'T Like That Man. I Must Get To Know Him Better."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abraham Lincoln**
 
-<sub>Updated on August 25, 2026</sub>
+<sub>Updated on August 26, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
