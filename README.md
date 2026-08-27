@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Don'T Like That Man. I Must Get To Know Him Better."*
+> *"Words are a pretext. It is the inner bond that draws one person to another, not words."*
 > 
-> **— Abraham Lincoln**
+> **— Rumi**
 
-<sub>Updated on August 26, 2026</sub>
+<sub>Updated on August 27, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
