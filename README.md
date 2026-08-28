@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Words are a pretext. It is the inner bond that draws one person to another, not words."*
+> *"One Believes Others Will Do What He Will Do To Himself."*
 > 
-> **— Rumi**
+> **— Victor Hugo**
 
-<sub>Updated on August 27, 2026</sub>
+<sub>Updated on August 28, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
