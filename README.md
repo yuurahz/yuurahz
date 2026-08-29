@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"One Believes Others Will Do What He Will Do To Himself."*
+> *"To make one good action succeed another, is the perfection of goodness."*
 > 
-> **— Victor Hugo**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on August 28, 2026</sub>
+<sub>Updated on August 29, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
