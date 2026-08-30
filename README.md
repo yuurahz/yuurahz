@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To make one good action succeed another, is the perfection of goodness."*
+> *"Our abode in this world is transitory, our life therein is but a loan, our breaths are numbered and our indolence is manifest."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on August 29, 2026</sub>
+<sub>Updated on August 30, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
