@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Our abode in this world is transitory, our life therein is but a loan, our breaths are numbered and our indolence is manifest."*
+> *"The Service you do for others is the rent you pay for your room here on Earth."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on August 30, 2026</sub>
+<sub>Updated on August 31, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
