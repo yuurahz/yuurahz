@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Service you do for others is the rent you pay for your room here on Earth."*
+> *"Dream, Dream Dream Dreams transform into thoughts And thoughts result in action."*
 > 
-> **— Muhammad Ali**
+> **— Abdul Kalam**
 
-<sub>Updated on August 31, 2026</sub>
+<sub>Updated on September 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
