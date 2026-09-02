@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Dream, Dream Dream Dreams transform into thoughts And thoughts result in action."*
+> *"No pork, soda pop, cigarettes, alcohol - ever!"*
 > 
-> **— Abdul Kalam**
+> **— Muhammad Ali**
 
-<sub>Updated on September 01, 2026</sub>
+<sub>Updated on September 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
