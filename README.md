@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Women are not equal with men, that's sure. When the woman is in danger she always looks to the man for help. We are superior by nature. The black or white woman needn't worry in life because the world is ruled by the white man."*
+> *"Peace Cannot Be Kept By Force; It Can Only Be Achieved By Understanding."*
 > 
-> **— Muhammad Ali**
+> **— Albert Einstein**
 
-<sub>Updated on September 04, 2026</sub>
+<sub>Updated on September 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
