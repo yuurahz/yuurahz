@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Peace Cannot Be Kept By Force; It Can Only Be Achieved By Understanding."*
+> *"It'S Hard To Be Humble, When You'Re As Great As I Am."*
 > 
-> **— Albert Einstein**
+> **— Muhammad Ali**
 
-<sub>Updated on September 05, 2026</sub>
+<sub>Updated on September 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
