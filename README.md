@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Why Is It That We Rejoice At A Birth And Grieve At A Funeral? It Is Because We Are Not The Person Involved."*
+> *"Your light is more magnificent than sunrise or sunset."*
 > 
-> **— Mark Twain**
+> **— Rumi**
 
-<sub>Updated on September 07, 2026</sub>
+<sub>Updated on September 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
