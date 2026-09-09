@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Your light is more magnificent than sunrise or sunset."*
+> *"Be like a tree and let the dead leaves drop."*
 > 
 > **— Rumi**
 
-<sub>Updated on September 08, 2026</sub>
+<sub>Updated on September 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
