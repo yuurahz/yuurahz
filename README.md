@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Be like a tree and let the dead leaves drop."*
+> *"Life Loves To Be Taken By The Lapel And Told: "I'M With You Kid. Let'S Go.""*
 > 
-> **— Rumi**
+> **— Maya Angelou**
 
-<sub>Updated on September 09, 2026</sub>
+<sub>Updated on September 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
