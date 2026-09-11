@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Life Loves To Be Taken By The Lapel And Told: "I'M With You Kid. Let'S Go.""*
+> *"The people who abandon Jihad fall a victim to humility and degradation."*
 > 
-> **— Maya Angelou**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on September 10, 2026</sub>
+<sub>Updated on September 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
