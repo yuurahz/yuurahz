@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The people who abandon Jihad fall a victim to humility and degradation."*
+> *"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Winston Churchill**
 
-<sub>Updated on September 11, 2026</sub>
+<sub>Updated on September 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
