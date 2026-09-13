@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last."*
+> *"The wisest among you is he whose sustenance is the fear of Allah."*
 > 
-> **— Winston Churchill**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on September 12, 2026</sub>
+<sub>Updated on September 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
