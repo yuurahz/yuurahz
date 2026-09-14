@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The wisest among you is he whose sustenance is the fear of Allah."*
+> *"Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Paulo Coelho**
 
-<sub>Updated on September 13, 2026</sub>
+<sub>Updated on September 14, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
