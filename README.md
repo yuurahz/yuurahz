@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"There Cannot Be A God Because If There Were One, I Could Not Believe That I Was Not He."*
+> *"If all you can do is crawl, start crawling."*
 > 
-> **— Friedrich Nietzsche**
+> **— Rumi**
 
-<sub>Updated on September 15, 2026</sub>
+<sub>Updated on September 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
