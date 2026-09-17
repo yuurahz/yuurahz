@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If all you can do is crawl, start crawling."*
+> *"I Am Not Bound To Please Thee With My Answer."*
 > 
-> **— Rumi**
+> **— William Shakespeare**
 
-<sub>Updated on September 16, 2026</sub>
+<sub>Updated on September 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
