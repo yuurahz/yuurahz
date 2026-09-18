@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Am Not Bound To Please Thee With My Answer."*
+> *"As a child of God, I am greater than anything that can happen to me."*
 > 
-> **— William Shakespeare**
+> **— Abdul Kalam**
 
-<sub>Updated on September 17, 2026</sub>
+<sub>Updated on September 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
