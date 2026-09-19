@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"As a child of God, I am greater than anything that can happen to me."*
+> *"We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses."*
 > 
-> **— Abdul Kalam**
+> **— Abraham Lincoln**
 
-<sub>Updated on September 18, 2026</sub>
+<sub>Updated on September 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
