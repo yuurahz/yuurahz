@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses."*
+> *"If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."*
 > 
-> **— Abraham Lincoln**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on September 19, 2026</sub>
+<sub>Updated on September 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
