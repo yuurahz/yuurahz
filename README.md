@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones."*
+> *"Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?"*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— William Shakespeare**
 
-<sub>Updated on September 20, 2026</sub>
+<sub>Updated on September 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
