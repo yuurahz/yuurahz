@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known?"*
+> *"Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech."*
 > 
-> **— William Shakespeare**
+> **— Benjamin Franklin**
 
-<sub>Updated on September 21, 2026</sub>
+<sub>Updated on September 22, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
