@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech."*
+> *"Acquire knowledge before you become leaders and pride prevents you from learning and you live in ignorance."*
 > 
-> **— Benjamin Franklin**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on September 22, 2026</sub>
+<sub>Updated on September 23, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
