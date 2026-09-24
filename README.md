@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Acquire knowledge before you become leaders and pride prevents you from learning and you live in ignorance."*
+> *"Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Warren Buffett**
 
-<sub>Updated on September 23, 2026</sub>
+<sub>Updated on September 24, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
