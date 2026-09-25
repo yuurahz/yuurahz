@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1."*
+> *"Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less."*
 > 
-> **— Warren Buffett**
+> **— C. S. Lewis**
 
-<sub>Updated on September 24, 2026</sub>
+<sub>Updated on September 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
