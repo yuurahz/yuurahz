@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less."*
+> *"All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference."*
 > 
-> **— C. S. Lewis**
+> **— Abdul Kalam**
 
-<sub>Updated on September 25, 2026</sub>
+<sub>Updated on September 26, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
