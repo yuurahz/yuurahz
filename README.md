@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Subject For A Great Poet Would Be God'S Boredom After The Seventh Day Of Creation."*
+> *"This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It."*
 > 
-> **— Friedrich Nietzsche**
+> **— David Brinkley**
 
-<sub>Updated on September 29, 2026</sub>
+<sub>Updated on September 30, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
