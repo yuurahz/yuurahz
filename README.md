@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It."*
+> *"Don'T Let Schooling Interfere With Your Education."*
 > 
-> **— David Brinkley**
+> **— Mark Twain**
 
-<sub>Updated on September 30, 2026</sub>
+<sub>Updated on October 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
