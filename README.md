@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese."*
+> *"True success is reaching our potential without compromising our values."*
 > 
-> **— Abdul Kalam**
+> **— Muhammad Ali**
 
-<sub>Updated on October 03, 2026</sub>
+<sub>Updated on October 04, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
