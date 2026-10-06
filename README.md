@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A man who views the world the same at fifty as he did at twenty has wasted thirty years of his life."*
+> *"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain."*
 > 
-> **— Muhammad Ali**
+> **— Victor Hugo**
 
-<sub>Updated on October 05, 2026</sub>
+<sub>Updated on October 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
