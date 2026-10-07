@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"What Would Be Ugly In A Garden Constitutes Beauty In A Mountain."*
+> *"Earning of livelihood by following some profession is better than living on charity."*
 > 
-> **— Victor Hugo**
+> **— Umar ibn Al-Khattāb (R.A)**
 
-<sub>Updated on October 06, 2026</sub>
+<sub>Updated on October 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
