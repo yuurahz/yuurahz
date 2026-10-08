@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Earning of livelihood by following some profession is better than living on charity."*
+> *"One Of The Greatest Diseases Is To Be Nobody To Anybody."*
 > 
-> **— Umar ibn Al-Khattāb (R.A)**
+> **— Mother Teresa**
 
-<sub>Updated on October 07, 2026</sub>
+<sub>Updated on October 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
