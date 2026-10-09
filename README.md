@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"One Of The Greatest Diseases Is To Be Nobody To Anybody."*
+> *"Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."*
 > 
-> **— Mother Teresa**
+> **— Abdul Kalam**
 
-<sub>Updated on October 08, 2026</sub>
+<sub>Updated on October 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
