@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person."*
+> *"The wiser a man is, the less talkative will he be."*
 > 
-> **— Abdul Kalam**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 09, 2026</sub>
+<sub>Updated on October 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
