@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The wiser a man is, the less talkative will he be."*
+> *"Open your Eyes, for this World is only a Dream."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Rumi**
 
-<sub>Updated on October 10, 2026</sub>
+<sub>Updated on October 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
