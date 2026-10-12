@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Open your Eyes, for this World is only a Dream."*
+> *"He who is greedy is disgraced; he who discloses his hardship will always be humiliated; he who has no control over his tongue will often have to face discomfort."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 11, 2026</sub>
+<sub>Updated on October 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
