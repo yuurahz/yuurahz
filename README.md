@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He who is greedy is disgraced; he who discloses his hardship will always be humiliated; he who has no control over his tongue will often have to face discomfort."*
+> *"My toughest fight was with my first wife."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Muhammad Ali**
 
-<sub>Updated on October 12, 2026</sub>
+<sub>Updated on October 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
