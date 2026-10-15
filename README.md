@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose."*
+> *"To Be Happy We Must Not Be Too Concerned With Others."*
 > 
-> **— Bill Gates**
+> **— Albert Camus**
 
-<sub>Updated on October 14, 2026</sub>
+<sub>Updated on October 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
