@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To Be Happy We Must Not Be Too Concerned With Others."*
+> *"If you only say one prayer in a day make it Thank You."*
 > 
-> **— Albert Camus**
+> **— Rumi**
 
-<sub>Updated on October 15, 2026</sub>
+<sub>Updated on October 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
