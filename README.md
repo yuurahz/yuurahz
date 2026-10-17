@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"If you only say one prayer in a day make it Thank You."*
+> *"Every nation has to follow a certain policy: Commercial, trade, various other types of policies."*
 > 
-> **— Rumi**
+> **— Abdul Kalam**
 
-<sub>Updated on October 16, 2026</sub>
+<sub>Updated on October 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
