@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth."*
+> *"Many a spoken word is more piercing than an attack."*
 > 
-> **— Ayn Rand**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 18, 2026</sub>
+<sub>Updated on October 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
