@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Many a spoken word is more piercing than an attack."*
+> *"A Good Conscience Is A Continual Christmas."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Benjamin Franklin**
 
-<sub>Updated on October 19, 2026</sub>
+<sub>Updated on October 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
