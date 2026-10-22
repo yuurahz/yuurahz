@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"When Red-Haired People Are Above A Certain Social Grade Their Hair Is Auburn."*
+> *"At night, I open the window and ask the moon to come and press its face against mine. Breathe into me. Close the language-door and open the love-window. The moon won't use the door, only the window."*
 > 
-> **— Mark Twain**
+> **— Rumi**
 
-<sub>Updated on October 21, 2026</sub>
+<sub>Updated on October 22, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
