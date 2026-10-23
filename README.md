@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"At night, I open the window and ask the moon to come and press its face against mine. Breathe into me. Close the language-door and open the love-window. The moon won't use the door, only the window."*
+> *"A Man Who Won'T Die For Something Is Not Fit To Live."*
 > 
-> **— Rumi**
+> **— Martin Luther King, Jr.**
 
-<sub>Updated on October 22, 2026</sub>
+<sub>Updated on October 23, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
