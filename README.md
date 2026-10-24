@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"A Man Who Won'T Die For Something Is Not Fit To Live."*
+> *"Move, but don't move the way fear makes you move."*
 > 
-> **— Martin Luther King, Jr.**
+> **— Rumi**
 
-<sub>Updated on October 23, 2026</sub>
+<sub>Updated on October 24, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
