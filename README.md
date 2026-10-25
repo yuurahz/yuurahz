@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Move, but don't move the way fear makes you move."*
+> *"Most Folks Are As Happy As They Make Up Their Minds To Be."*
 > 
-> **— Rumi**
+> **— Abraham Lincoln**
 
-<sub>Updated on October 24, 2026</sub>
+<sub>Updated on October 25, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
