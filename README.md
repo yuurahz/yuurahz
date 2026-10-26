@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Most Folks Are As Happy As They Make Up Their Minds To Be."*
+> *"He Who Has Never Learned To Obey Cannot Be A Good Commander."*
 > 
-> **— Abraham Lincoln**
+> **— Aristotle**
 
-<sub>Updated on October 25, 2026</sub>
+<sub>Updated on October 26, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
