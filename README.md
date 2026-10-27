@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"He Who Has Never Learned To Obey Cannot Be A Good Commander."*
+> *"Its good to leave each day behind, like flowing water, free of sadness. Yesterday is gone and its tale told. Today new seeds are growing."*
 > 
-> **— Aristotle**
+> **— Rumi**
 
-<sub>Updated on October 26, 2026</sub>
+<sub>Updated on October 27, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
