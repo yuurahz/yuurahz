@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Its good to leave each day behind, like flowing water, free of sadness. Yesterday is gone and its tale told. Today new seeds are growing."*
+> *"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 27, 2026</sub>
+<sub>Updated on October 28, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
