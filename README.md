@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Do not take someone's silence as his pride, perhaps he is busy fighting with his self."*
+> *"Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Aristotle**
 
-<sub>Updated on October 28, 2026</sub>
+<sub>Updated on October 29, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
