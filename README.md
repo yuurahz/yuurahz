@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered."*
+> *"Words, Without Power, Is Mere Philosophy."*
 > 
-> **— Aristotle**
+> **— Muhammad Iqbal**
 
-<sub>Updated on October 29, 2026</sub>
+<sub>Updated on October 30, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
