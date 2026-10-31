@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Words, Without Power, Is Mere Philosophy."*
+> *"To Love is to reach God."*
 > 
-> **— Muhammad Iqbal**
+> **— Rumi**
 
-<sub>Updated on October 30, 2026</sub>
+<sub>Updated on October 31, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
