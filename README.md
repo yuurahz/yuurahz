@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To Love is to reach God."*
+> *"Like your body your mind also gets tired so refresh it by wise sayings."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on October 31, 2026</sub>
+<sub>Updated on November 01, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
