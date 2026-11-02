@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Like your body your mind also gets tired so refresh it by wise sayings."*
+> *"I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Mark Twain**
 
-<sub>Updated on November 01, 2026</sub>
+<sub>Updated on November 02, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
