@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It."*
+> *"The Only True Wisdom Is In Knowing You Know Nothing."*
 > 
-> **— Mark Twain**
+> **— Socrates**
 
-<sub>Updated on November 02, 2026</sub>
+<sub>Updated on November 03, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
