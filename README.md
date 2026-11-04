@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"The Only True Wisdom Is In Knowing You Know Nothing."*
+> *"You Don'T Learn To Walk By Following Rules. You Learn By Doing, And By Falling Over."*
 > 
-> **— Socrates**
+> **— Richard Branson**
 
-<sub>Updated on November 03, 2026</sub>
+<sub>Updated on November 04, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
