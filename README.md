@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You Don'T Learn To Walk By Following Rules. You Learn By Doing, And By Falling Over."*
+> *"I am an ordinary man who worked hard to develop the talent I was given."*
 > 
-> **— Richard Branson**
+> **— Muhammad Ali**
 
-<sub>Updated on November 04, 2026</sub>
+<sub>Updated on November 05, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
