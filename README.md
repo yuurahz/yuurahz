@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I am an ordinary man who worked hard to develop the talent I was given."*
+> *"Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination."*
 > 
-> **— Muhammad Ali**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on November 05, 2026</sub>
+<sub>Updated on November 06, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
