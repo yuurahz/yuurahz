@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Everyone who is taken by death asks for more time, while everyone who still has time makes excuses for procrastination."*
+> *"History Is More Or Less Bunk."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Henry Ford**
 
-<sub>Updated on November 06, 2026</sub>
+<sub>Updated on November 07, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
