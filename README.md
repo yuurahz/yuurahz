@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"History Is More Or Less Bunk."*
+> *"To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU."*
 > 
-> **— Henry Ford**
+> **— Muhammad Ali**
 
-<sub>Updated on November 07, 2026</sub>
+<sub>Updated on November 08, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
