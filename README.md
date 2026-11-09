@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU."*
+> *"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin."*
 > 
 > **— Muhammad Ali**
 
-<sub>Updated on November 08, 2026</sub>
+<sub>Updated on November 09, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
