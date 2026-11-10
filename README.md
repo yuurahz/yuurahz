@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Now I had won the gold medal. But it didn't mean anything, because I didn't have the right color skin."*
+> *"It is better to listen to a wise enemy than to seek counsel from a foolish friend."*
 > 
-> **— Muhammad Ali**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on November 09, 2026</sub>
+<sub>Updated on November 10, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
