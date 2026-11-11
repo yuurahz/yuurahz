@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It is better to listen to a wise enemy than to seek counsel from a foolish friend."*
+> *"What One Writer Can Make In The Solitude Of One Room Is Something No Power Can Easily Destroy."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Salman Rushdie**
 
-<sub>Updated on November 10, 2026</sub>
+<sub>Updated on November 11, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
