@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"What One Writer Can Make In The Solitude Of One Room Is Something No Power Can Easily Destroy."*
+> *"Never make a decision in anger and never make a promise in happiness."*
 > 
-> **— Salman Rushdie**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on November 11, 2026</sub>
+<sub>Updated on November 12, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
