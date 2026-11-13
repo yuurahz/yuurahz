@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Never make a decision in anger and never make a promise in happiness."*
+> *"It is bad for a young man to sin; but it is worse for an old man to sin."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Abu Bakr (R.A)**
 
-<sub>Updated on November 12, 2026</sub>
+<sub>Updated on November 13, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
