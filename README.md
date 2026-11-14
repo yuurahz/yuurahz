@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"It is bad for a young man to sin; but it is worse for an old man to sin."*
+> *"Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird."*
 > 
-> **— Abu Bakr (R.A)**
+> **— Neil Armstrong**
 
-<sub>Updated on November 13, 2026</sub>
+<sub>Updated on November 14, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
