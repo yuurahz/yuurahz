@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Gliders, Sail Planes, They'Re Wonderful Flying Machines. It'S The Closest You Can Come To Being A Bird."*
+> *"I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love."*
 > 
-> **— Neil Armstrong**
+> **— Mother Teresa**
 
-<sub>Updated on November 14, 2026</sub>
+<sub>Updated on November 15, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
