@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love."*
+> *"By Failing To Prepare, You Are Preparing To Fail."*
 > 
-> **— Mother Teresa**
+> **— Benjamin Franklin**
 
-<sub>Updated on November 15, 2026</sub>
+<sub>Updated on November 16, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
