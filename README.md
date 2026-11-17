@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"By Failing To Prepare, You Are Preparing To Fail."*
+> *"You were born with potential. You were born with goodness and trust. You were born with ideals and dreams. You were born with greatness. You were born with wings. You are not meant for crawling, so don't. You have wings. Learn to use them and fly."*
 > 
-> **— Benjamin Franklin**
+> **— Rumi**
 
-<sub>Updated on November 16, 2026</sub>
+<sub>Updated on November 17, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
