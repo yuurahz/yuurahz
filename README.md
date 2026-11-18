@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"You were born with potential. You were born with goodness and trust. You were born with ideals and dreams. You were born with greatness. You were born with wings. You are not meant for crawling, so don't. You have wings. Learn to use them and fly."*
+> *"Asceticism is not that you should not own anything, but that nothing should own you."*
 > 
-> **— Rumi**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on November 17, 2026</sub>
+<sub>Updated on November 18, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
