@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Asceticism is not that you should not own anything, but that nothing should own you."*
+> *"Innovation Distinguishes Between A Leader And A Follower."*
 > 
-> **— Ali ibn Abi Talib (R.A)**
+> **— Steve Jobs**
 
-<sub>Updated on November 18, 2026</sub>
+<sub>Updated on November 19, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
