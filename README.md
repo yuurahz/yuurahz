@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Innovation Distinguishes Between A Leader And A Follower."*
+> *"Anger Is Never Without A Reason, But Seldom With A Good One."*
 > 
-> **— Steve Jobs**
+> **— Benjamin Franklin**
 
-<sub>Updated on November 19, 2026</sub>
+<sub>Updated on November 20, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
