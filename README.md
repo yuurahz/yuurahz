@@ -16,11 +16,11 @@
 
 ## 📝 Quote of the Day
 
-> *"Anger Is Never Without A Reason, But Seldom With A Good One."*
+> *"Do not share the knowledge with which you have been blessed with everyone in general, as you do with some people in particular; and know that there are some men in whom Allah, may He he glorified, has placed hidden secrets, which they are forbidden to reveal."*
 > 
-> **— Benjamin Franklin**
+> **— Ali ibn Abi Talib (R.A)**
 
-<sub>Updated on November 20, 2026</sub>
+<sub>Updated on November 21, 2026</sub>
 
 </div>
 <!-- QUOTE:END -->
